@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Michael S. Dahl / Professor, Aarhus University"
+title                    : "Michael S. Dahl"
 title_separator          : "-"
 name                     : &name "Michael S. Dahl"
 description              : &description "Professor and Deputy Head of Department at Department of Management, Aarhus BSS, Aarhus University, Denmark"
@@ -78,11 +78,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Michael S. Dahl"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Professor, Deputy Head of Department"
   location         : "Aarhus, Denmark"
-  employer         :
+  employer         : "Aarhus BSS, Aarhus University
   googlescholar    : "https://scholar.google.com/citations?user=KyXHkI4AAAAJ&hl=en"
   email            :
   uri              :
