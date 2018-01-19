@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-Short CV
-====
 
 Education
 ======
