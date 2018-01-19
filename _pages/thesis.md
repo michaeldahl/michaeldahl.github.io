@@ -3,7 +3,6 @@ permalink: /thesis/
 title: "Thesis"
 author_profile: true
 redirect_from: 
-  - "/thesis/"
   - "/thesis.html"
 ---
 
