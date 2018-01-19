@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Short CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 
 Education
 ======
@@ -37,7 +38,7 @@ Visiting scholarships
 
 Services
 ======
-* Member of the Independent Research Council | Social Science, 2013–-present
+* Member of the Independent Research Council, Social Science, 2013–-present
   * Chair of Economics Section, 2014-–2015
 * Member of the PhD Council, Department of Management, 2016–-2017
 * Member of the Board of Directors, DRUID, 2006–2015
@@ -64,9 +65,9 @@ Grants (selected)
 ======
 * AUFF Nova Grant 2016, €270,000
 * Danish Foundation of Industry 2013 (with Anders Frederiksen and Lars Frederiksen), €300,000
-* Independent Research Council | Social Science 2012, €440,000
-* Independent Research Council | Social Science 2008, €320,000
+* Independent Research Council, Social Science 2012, €440,000
+* Independent Research Council, Social Science 2008, €320,000
 * Oticon Foundation 2008 (Conference grant, with Keld Laursen and Steven Klepper), €20,000
-* Independent Research Council | Social Science 2008 (Conference grant, with Keld Laursen and Steven Klepper), €13,400
+* Independent Research Council, Social Science 2008 (Conference grant, with Keld Laursen and Steven Klepper), €13,400
 * Rockwool Foundation 2007, €430,000
 * Marie Curie Fellowship Exchange Grant 2002 (Travel grant), €4,400
