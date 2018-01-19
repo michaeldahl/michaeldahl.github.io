@@ -8,8 +8,7 @@ redirect_from:
 ---
 
 
-Education
-======
+## Education
 * BSc in Economics, Aalborg University, 1997
 * MSc in Industrial Economics (cand.oecon.), Aalborg University, 1999
 * PhD in Economics, Aalborg University, 2004
