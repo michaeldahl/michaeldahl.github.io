@@ -1,7 +1,7 @@
 ---
 title: "Applied Quantitative Methods"
 collection: teaching
-type: "PhD"
+type: "PhD course (mandatory)"
 permalink: /teaching/PhDmethods
 venue: "Aarhus BSS, Department of Management"
 date: 2017-09-01
