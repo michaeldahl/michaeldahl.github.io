@@ -6,7 +6,7 @@ tags:
   - Publications
 ---
 
-This paper was first drafted during my visit at Carnegie Mellon University in the Winter and Spring of 2007. For the following year, Steve and I continuously revised the paper, but never got to submit it to a journal together. When Steve passed away, I updated the paper with new data and analysis, while keeping the paper in the spirit of the theory and ideas that we developed back in 2007. In this process, I received valuable feedback from Peter Thompson, Olav Sorenson, and Guido Buenstorf.
+This paper was first drafted during my visit at Carnegie Mellon University in the Winter and Spring of 2007. For the following year, Steve and I continuously revised the paper, but never got to submit it to a journal together. When Steve passed away, I updated the paper with new data and analysis, while keeping the paper in the spirit of the theory and ideas that we developed back in 2007. In this process, I received valuable feedback from [Peter Thompson](https://scholar.google.com/citations?hl=en&user=JfUVbEsAAAAJ), [Olav Sorenson](http://www.olavsorenson.net), and [Guido Buenstorf](https://scholar.google.com/citations?user=qR6_7pwAAAAJ).
 
 **Two versions of this paper now exists:**
   * The last joint version (September 2008), which is available on [SSRN](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2420122)
