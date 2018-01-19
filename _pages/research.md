@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 #### Articles in peer-reviewed refereed journals
+##### Articles in peer-reviewed refereed journals
 
 M. Diane Burton, Michael S. Dahl and Olav Sorenson (2018, in print), Do Startups Pay Less?, **Industrial and Labor Relations Review**. Forthcoming. [DOI](https://doi.org/10.1177/0019793917747240)
 
@@ -34,7 +35,8 @@ Toke Reichstein, Michael S. Dahl, Bernd Ebersberger, and Morten Berg Jensen (201
 Michael S. Dahl and Olav Sorenson (2010), The Migration of Technical Workers, **Journal of Urban Economics** 67(1), 33-45. ISSN: 0094-1190.
 
 Michael S. Dahl and Olav Sorenson (2009), The Embedded Entrepreneur, **European Management Review** 6(3), 172-181. ISSN: 1740-4754.
-* EMR Best Paper Award 2009
+  * EMR Best Paper Award 2009
+<br>
 
 Michael S. Dahl and Toke Reichstein (2007), Are You Experienced? Prior Experience and the Survival of New Organizations, **Industry and Innovation** 14(5), 497-511. ISSN: 1366-2716
 
