@@ -10,4 +10,4 @@ Studies have consistently found that entrepreneurs who enter industries in which
 
 _**Michael S. Dahl and [Olav Sorenson](http://www.olavsorenson.net)**_
 
-**Industrial and Corporate Change, 2014, 23(3) 661-688 - [Direct link](http://dx.doi.org/10.1093/icc/dtt032)**
+**Industrial and Corporate Change, 2014, 23(3), 661-688 - [Direct link](http://dx.doi.org/10.1093/icc/dtt032)**
