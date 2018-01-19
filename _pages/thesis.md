@@ -7,10 +7,9 @@ redirect_from:
 ---
 
 My PhD thesis was submitted on the 3rd of November 2003 and successfully defended on the 26th of January 2004. The scientific evaluation committee consisted of:
-
-    * [Professor Esben Sloth Andersen](https://scholar.google.dk/citations?user=bSjpRv4AAAAJ) (Chairman, [Aalborg University](http://www.business.aau.dk/))
-    * [Professor Stefano Breschi](https://scholar.google.com/citations?user=E9VmqI0AAAAJ) (At the time: [CESPRI, Bocconi University, Milan, Italy](https://www.unibocconi.it/))
-    * [Professor Maryann Feldman](https://scholar.google.com/citations?user=qZaKkrQAAAAJ) (At the time: [Rotman School of Management, University of Toronto, Canada](https://www.rotman.utoronto.ca/)).
+* [Professor Esben Sloth Andersen](https://scholar.google.dk/citations?user=bSjpRv4AAAAJ) (Chairman, [Aalborg University](http://www.business.aau.dk/))
+* [Professor Stefano Breschi](https://scholar.google.com/citations?user=E9VmqI0AAAAJ) (At the time: [CESPRI, Bocconi University, Milan, Italy](https://www.unibocconi.it/))
+* [Professor Maryann Feldman](https://scholar.google.com/citations?user=qZaKkrQAAAAJ) (At the time: [Rotman School of Management, University of Toronto, Canada](https://www.rotman.utoronto.ca/)).
 
 ## Knowledge Diffusion and Regional Clusters: Lessons from the Danish ICT Industry, pp. 250.
 
@@ -19,11 +18,11 @@ My PhD thesis was submitted on the 3rd of November 2003 and successfully defende
 All chapters, except the Introduction and Conclusion, have been published.
 
 **Chapter 1: Introduction**
-    * Dominant schools of geographical agglomeration and regional clustering
-    * Theories of entrepreneurship and organizational inheritance
-    * Clusters, agglomeration and concentrations: How are they defined?
-    * Research questions
-    * Structure of the thesis
+* Dominant schools of geographical agglomeration and regional clustering
+* Theories of entrepreneurship and organizational inheritance
+* Clusters, agglomeration and concentrations: How are they defined?
+* Research questions
+* Structure of the thesis
 
 **Chapter 2: On the Danish ICT Sector - Published (2006, edited volume on Routledge)**
     * Structure and performance in an international perspective
@@ -74,16 +73,16 @@ The fourth part of the thesis concerns the importance of local universities and 
 *Chapter 8* finalizes the thesis with a discussion of the general conclusions and policy perspectives. The research questions are discussed in turn with reference to the general applicability of the findings in a theoretical perspective. This includes a motivation for future research and important challenges for the future. Clusters as economic phenomena are more than ever a desired target of policy makers around the globe as mention above. In this respect, Chapter 8 includes a discussion on the general policy implications of this thesis with a concrete link to the present efforts of the local government in Aalborg and North Jutland.
   
 ### Summary in Danish
-Denne ph.d. afhandling har oversat til dansk titlen, “_Vidensspredning og regionale virksomhedsklynger_”. Den tager sit udgangspunkt i forskellige studier af den danske IKT industri og denne geografiske dimension. *Kapitel 1* beskriver de dominerende teorier, der anvendes inden for det økonomisk geo-grafiske forskningsfelt. En af de mest dominerende antagelser af denne litteratur er, at viden spredes gennem netværksrelationer i virksomhedsklynger. Denne antagelse er den centrale i denne afhandling og genstand for forskellige empiriske tests i afhandlingens mest centrale kapitler 3-5.
+Denne ph.d. afhandling har oversat til dansk titlen, “_Vidensspredning og regionale virksomhedsklynger_”. Den tager sit udgangspunkt i forskellige studier af den danske IKT industri og denne geografiske dimension. *Kapitel 1* beskriver de dominerende teorier, der anvendes inden for det økonomisk geografiske forskningsfelt. En af de mest dominerende antagelser af denne litteratur er, at viden spredes gennem netværksrelationer i virksomhedsklynger. Denne antagelse er den centrale i denne afhandling og genstand for forskellige empiriske tests i afhandlingens mest centrale kapitler 3-5.
 
 *Kapitel 2* giver en gennemgående beskrivelse af styrker og svagheder i den danske IKT sektor. Dette fremstår som noget af et paradoks, hvor stærke positioner på brugersiden er på den ene side. Men på den side står Danmark svagt på udbudssiden i forhold til produktion af IKT udstyr og services. Dette paradoks diskuteres i forhold til andre mindre lande som Sverige og Finland, der står relativt stærkere end Danmark. To regionalt funderede styrkepunkter præsenteres, som få lys-punkter i det danske IKT erhvervsliv.
 
 Afhandlingens centrale Del 2 omhandler kvalitative studier af et af de styrkepunkter, som blev beskrevet i Kapitel 2. *Kapitel 3* tester således den helt centrale hypotese om videnspredning fra teorien ved hjælp af et spørgeskema udsendt til alle ingeniører i den nordjyske klynge af virksomheder inden for trådløs kommunikation. Konklusion af dette er, at viden i et vist omfang spredes gennem netværk. *Kapitel 4* undersøger en helt anden form for videnspredning, nemlig den spredning, som sker, når en medarbejder forlader en virksomhed for at stifte deres egen i samme branche. Disse nye virksomheder kaldes *spinoffs* og repræsenterer en spredning af viden indeholdt i personer. Viden som ikke umiddelbart kan overføres ved samtale og nedskrivning. Stifternes baggrund i virksomheder i den nordjyske klynge af trådløse virksomheder kortlægges for at undersøge, hvorvidt *spinoffs* klarer sig bedre end andre typer af virksomhedsopstarter i kraft af deres viden fra arbejdet i en anden virksomhed i klyngen. Resultatet af denne undersøgelse er, at spinoffs har været en helt central faktor bag udviklingen af klyngen. Spinoffs har ligeledes genereret størstedelen af de arbejdspladser, som findes i klyngen i dag.
 
-Den tredje del af afhandlingen omhander mere kvantitative undersøgelse af klyngedannelse. *Kapitel 5* indeholder indledende undersøgelse af mere generel arbejdskraftsmobilitet. Ved hjælp af en unik database indeholdende hele den danske arbejdsstyrke identificeres 39 virksomhedsklynger, hvori mobi-liteten undersøges. Resultatet af dette er, at klyngerne ikke viser sig at have en højere mobilitet inden for regionen og industrien, hvilket den dominerende litteratur ellers argumentere for. I stedet viser det sig, at virksomhedsklyngerne generelt hyrer flere nye medarbejdere fra samme industri end regioner uden klynger. Det betyder, at klyngevirksomhederne kan have en fordel ved at kunne hyre flere medarbejdere med industrispecifik viden end andre virksomheder. Et andet resultat er, at arbejdskraften generelt er ret immobil på tværs af regioner. Årsagen til dette søges kortlagt sidst i kapitelet, hvor en logistisk model præsenteres. Modellens estimation viser, at personer generelt er mindre mobile, jo ældre de er, samt jo mere etableret de bliver i forhold til civil status. Dette betyder, at ældre og mere erfaren arbejdskraft ikke så ofte flytter på tværs af regioner.
+Den tredje del af afhandlingen omhander mere kvantitative undersøgelse af klyngedannelse. *Kapitel 5* indeholder indledende undersøgelse af mere generel arbejdskraftsmobilitet. Ved hjælp af en unik database indeholdende hele den danske arbejdsstyrke identificeres 39 virksomhedsklynger, hvori mobiliteten undersøges. Resultatet af dette er, at klyngerne ikke viser sig at have en højere mobilitet inden for regionen og industrien, hvilket den dominerende litteratur ellers argumentere for. I stedet viser det sig, at virksomhedsklyngerne generelt hyrer flere nye medarbejdere fra samme industri end regioner uden klynger. Det betyder, at klyngevirksomhederne kan have en fordel ved at kunne hyre flere medarbejdere med industrispecifik viden end andre virksomheder. Et andet resultat er, at arbejdskraften generelt er ret immobil på tværs af regioner. Årsagen til dette søges kortlagt sidst i kapitelet, hvor en logistisk model præsenteres. Modellens estimation viser, at personer generelt er mindre mobile, jo ældre de er, samt jo mere etableret de bliver i forhold til civil status. Dette betyder, at ældre og mere erfaren arbejdskraft ikke så ofte flytter på tværs af regioner.
 
-*Kapitel 6* analyser forskellige faktorer bag virksomhedsvækst. En central konklusion i kapitlerne 3-5 er, at netop denne form for analyser bør spille en større rolle i fremtidig forskning i forhold til viden-spredning. Kapitlet finder en række helt centrale faktorer, som skal medtages i disse fremtidige analyser.
+*Kapitel 6* analyser forskellige faktorer bag virksomhedsvækst. En central konklusion i kapitlerne 3-5 er, at netop denne form for analyser bør spille en større rolle i fremtidig forskning i forhold til videnspredning. Kapitlet finder en række helt centrale faktorer, som skal medtages i disse fremtidige analyser.
 
-Den sidste del af afhandlingen bringer en diskussion af universiteters betydning for det lokale erhvervsliv samt bringer konklusionerne og policy implikationerne til afhandlingen. *Kapitel 7* sammenligner Luleå (Sverige), Aalborg (Danmark) og Oulu (Finland) for at undersøge universiteterne effekter. Resultatet af denne sammenligning er, at universiteternes vigtigste rolle er af udbyde arbejds-kraft.
+Den sidste del af afhandlingen bringer en diskussion af universiteters betydning for det lokale erhvervsliv samt bringer konklusionerne og policy implikationerne til afhandlingen. *Kapitel 7* sammenligner Luleå (Sverige), Aalborg (Danmark) og Oulu (Finland) for at undersøge universiteterne effekter. Resultatet af denne sammenligning er, at universiteternes vigtigste rolle er af udbyde arbejdskraft.
 
 *Kapitel 8* er afhandlingens konklusion, som resumerer resultaterne fra den centrale del af afhandlingen vedrørende tests af den dominerende teori. Derudover diskuteres mulighederne for fremtidig forskning med afsæt i afhandlingen. Slutteligt diskuteres den politiske del af virksomhedsklyngerne.
