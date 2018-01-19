@@ -7,8 +7,8 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
+Short CV
+====
 
 Education
 ======
@@ -16,17 +16,19 @@ Education
 * MSc in Industrial Economics (cand.oecon.), Aalborg University, 1999
 * PhD in Economics, Aalborg University, 2004
 
+
 Employment
 ======
-* November 2015--present: Aarhus University, Department of Management
+* 2015--present: Aarhus University, Department of Management
   * Professor
-  * Deputy Head of Department (February 2017--present)
+  * Deputy Head of Department (2017--present)
 
-* February 2004--October 2015: Aalborg University, Department of Business and Management
-  * Professor, 2012--2015, on leave from October 2015--November 2017)
+* 2004--2015: Aalborg University, Department of Business and Management
+  * Professor, 2012--2015, on leave from 2015--2017)
   * Professor with special responsibilities, 2010--2012
   * Associate Professor, 2007--2009
   * Assistant Professor, 2004--2007 (joint appointment with Department of Electronic Systems)
+
 
 Visiting scholarships
 ======
@@ -35,6 +37,7 @@ Visiting scholarships
 * Carnegie Mellon University, Department of Social and Decision Sciences, March--June, 2007
 * Carnegie Mellon University, Department of Social and Decision Sciences, September--December, 2002
 * Technische Universiteit Eindhoven, Eindhoven Center for Innovation Studies, February--June, 2002
+
 
 Services
 ======
@@ -47,6 +50,7 @@ Services
 * Department representative, Ph.D. Study Board, Faculty of Social Sciences, 2008–-2009
 * Member of Economics Group, Bibliographic Research Indicator, Danish Agency for Science, Technology and Innovation, 2008–-2013
   
+  
 Awards
 ======
 * Jorck’s Foundation Research Award 2016
@@ -56,10 +60,11 @@ Awards
 * Best Paper Award, European Management Review 2009 (with Olav Sorenson)
 * Tietgen Gold Medal Research Award 2006
   * Award given to promissing young scholars in economics and business, €13,500
-Spar Nord Foundation Research Award 2005
+* Spar Nord Foundation Research Award 2005
   * Award given to younger researchers, who have completed an outstanding doctoral project at Aalborg University, €33,759
 * Tuborg Foundation Business Research Prize 2001
   * Award given to young business researchers to support a longer stay at a University in the United States, €20,000
+
 
 Grants (selected)
 ======
