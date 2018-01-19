@@ -5,8 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-#### Articles in peer-reviewed refereed journals
-##### Articles in peer-reviewed refereed journals
+## Articles in peer-reviewed refereed journals
 
 M. Diane Burton, Michael S. Dahl and Olav Sorenson (2018, in print), Do Startups Pay Less?, **Industrial and Labor Relations Review**. Forthcoming. [DOI](https://doi.org/10.1177/0019793917747240)
 
@@ -51,18 +50,19 @@ Michael S. Dahl (2004), Født til Succes? Knopskydninger som kilde til innovatio
 Toke Reichstein and Michael S. Dahl (2004), Are Firm Growth Rates Random? Patterns and Dependencies, **International Review of Applied Economics** 18(2), 225-246. ISSN: 0269-2171.
     
 
-#### Books
+## Books
 
 Michael S. Dahl, Pernille G. Jensen and Kristian Nielsen (2009), **Jagten på fremtidens nye vækstvirksomheder -Hovedrapport**, Copenhagen: DJØF Forlag, 394 pages. ISBN: 978-87-574-2163-7
 
 Michael S. Dahl, Pernille G. Jensen and Kristian Nielsen (2009), **Jagten på fremtidens nye vækstvirksomheder - Resumé**, Copenhagen: DJØF Forlag, 80 pages. ISBN: 978-87-574-2164-4
 
-#### Thesis
+
+## Thesis
 
 Michael S. Dahl (2003), **[Knowledge Diffusion and Regional Clusters: Lessons from the Danish ICT Industry](/pubs/thesis)**, Unpublished PhD Thesis, Department of Business Studies, Aalborg University, 250 pages. Submitted: November 3, 2003, Defended: January 26, 2004.
 
 
-#### Book chapters
+## Book chapters
 
 Pernille Gjerløv-Juel and Michael S. Dahl (2012), Spin-off Growth and Job Creation: Evidence on Denmark, in: Guido Buenstorf (ed.), Evolution, Organization And Economic Behavior, Edward Elgar. ISBN: 978-1-84980-628-2.
 
