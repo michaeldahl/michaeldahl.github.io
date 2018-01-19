@@ -11,7 +11,8 @@ My PhD thesis was submitted on the 3rd of November 2003 and successfully defende
 * [Professor Stefano Breschi](https://scholar.google.com/citations?user=E9VmqI0AAAAJ) (At the time: [CESPRI, Bocconi University, Milan, Italy](https://www.unibocconi.it/))
 * [Professor Maryann Feldman](https://scholar.google.com/citations?user=qZaKkrQAAAAJ) (At the time: [Rotman School of Management, University of Toronto, Canada](https://www.rotman.utoronto.ca/)).
 
-## Knowledge Diffusion and Regional Clusters: Lessons from the Danish ICT Industry, pp. 250.
+
+## Knowledge Diffusion and Regional Clusters: Lessons from the Danish ICT Industry, 250pp.
 
 ### Table of Contents
 
@@ -25,37 +26,38 @@ All chapters, except the Introduction and Conclusion, have been published.
 * Structure of the thesis
 
 **Chapter 2: On the Danish ICT Sector - Published (2006, edited volume on Routledge)**
-    * Structure and performance in an international perspective
-    * What is behind the relative weakness
-    * ICT consumption pattern
-    * Regionally clustered strong niches
+* Structure and performance in an international perspective
+* What is behind the relative weakness
+* ICT consumption pattern
+* Regionally clustered strong niches
 
 **Chapter 3: Knowledge Diffusion through Informal Contacts: Myth or Reality - Published (2004, Research Policy)**
-    * Knowledge diffusion and informal contacts
-    * Testable propositions
-    * Wireless communication cluster in Northern Denmark
-    * Importance of informal contacts
+* Knowledge diffusion and informal contacts
+* Testable propositions
+* Wireless communication cluster in Northern Denmark
+* Importance of informal contacts
 
 **Chapter 4: New Firm Formation and Inherited Organizational Capabilities - Published (2010, edited volume on Edward Elgar)**
-    * Entry and pre-entry organizational capabilities
-    * Role of new firm entry in the history of the wireless communication cluster in Northern Denmark
+* Entry and pre-entry organizational capabilities
+* Role of new firm entry in the history of the wireless communication cluster in Northern Denmark
 
 **Chapter 5: An Exploration of Regional Labor Mobility - Developed in to several new papers - Published (2010, Social Forces)**
-    * Labor mobility and clusters
-    * Sociological factors and labor mobility
+* Labor mobility and clusters
+* Sociological factors and labor mobility
 
 **Chapter 6: Geographical Differences in Firm Growth - Published (2004, International Review of Applied Economics)**
-    * Firm growth and factors of dependence
+* Firm growth and factors of dependence
     
 **Chapter 7: Role of Universities in Regional Development - Published (2006, edited volume on Copenhagen Business School Press)**
-    * Knowledge diffusion and the role of local universities
-    * Case-study: Three universities in outer regions in Denmark, Sweden and Finland
-    * University-industry interactions
+* Knowledge diffusion and the role of local universities
+* Case-study: Three universities in outer regions in Denmark, Sweden and Finland
+* University-industry interactions
 
 **Chapter 8: Conclusion and Policy Perspectives**
-    * Future research implications
+* Future research implications
 
-### Summary in English
+
+## Summary in English
 *Chapter 1* of the present thesis presents the main research questions, which are studied in the thesis. This is based on a review of the dominant theories of geographical clustering. The central concept of clusters is also discussed.
 
 The point of departure of *Chapter 2* is the general worry about the rather weak European performance in the ICT sector. The chapter concentrates on some salient features of the Danish ICT sector in an international context. The main focus is that Denmark on the one hand belongs to the most advanced user nations, measured by conventional indicators for user penetration (such as the amount of PCs, mobile phones and Internet accesses per capita). It is, however, on the other hand rather obvious that the country is not among the major players in the international ICT markets, even when account is taken for the size of the country. The nearby, and in many ways similar, countries of Sweden, Finland and the Netherlands are the living proofs that small countries may play a significantly more visible role in this field. The strengths and weaknesses of the ICT sector in Denmark are analyzed in order to search for possible explanations of this apparent lack of match between the advanced demand and the rather weak supply side of the industry.
@@ -71,8 +73,9 @@ In *Chapter 6*, we look at specific patterns and dependencies of firm growth in 
 The fourth part of the thesis concerns the importance of local universities and the conclusion of the thesis. Here *Chapter 7* compares university-industry links in three Nordic peripheral regions with fairly new but already broad and comprehensive universities that all include rather big technical faculties (engineering schools). The regions include the area around Luleå in northern Sweden, Aalborg in northern Denmark, and Oulu in northern Finland. The three regions have somehow similar demographic characteristics. The comparison shows that the technical faculties of the three universities have strong linkages with the local industry, but they are of a different nature. In all three cases the industrial activities in the region are fairly closely connected to the activities of the local universities. The chapter is concluded by a discussion of some common issues concerning how university-industry links work, especially concerning their role in clusters.
 
 *Chapter 8* finalizes the thesis with a discussion of the general conclusions and policy perspectives. The research questions are discussed in turn with reference to the general applicability of the findings in a theoretical perspective. This includes a motivation for future research and important challenges for the future. Clusters as economic phenomena are more than ever a desired target of policy makers around the globe as mention above. In this respect, Chapter 8 includes a discussion on the general policy implications of this thesis with a concrete link to the present efforts of the local government in Aalborg and North Jutland.
-  
-### Summary in Danish
+
+
+## Summary in Danish
 Denne ph.d. afhandling har oversat til dansk titlen, “_Vidensspredning og regionale virksomhedsklynger_”. Den tager sit udgangspunkt i forskellige studier af den danske IKT industri og denne geografiske dimension. *Kapitel 1* beskriver de dominerende teorier, der anvendes inden for det økonomisk geografiske forskningsfelt. En af de mest dominerende antagelser af denne litteratur er, at viden spredes gennem netværksrelationer i virksomhedsklynger. Denne antagelse er den centrale i denne afhandling og genstand for forskellige empiriske tests i afhandlingens mest centrale kapitler 3-5.
 
 *Kapitel 2* giver en gennemgående beskrivelse af styrker og svagheder i den danske IKT sektor. Dette fremstår som noget af et paradoks, hvor stærke positioner på brugersiden er på den ene side. Men på den side står Danmark svagt på udbudssiden i forhold til produktion af IKT udstyr og services. Dette paradoks diskuteres i forhold til andre mindre lande som Sverige og Finland, der står relativt stærkere end Danmark. To regionalt funderede styrkepunkter præsenteres, som få lys-punkter i det danske IKT erhvervsliv.
