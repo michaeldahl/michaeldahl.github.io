@@ -1,7 +1,7 @@
 ---
 title: 'Fatherhood and Managerial Style: How a Male CEO’s Children Affect the Wages of His Employees'
 date: 2012-07-12
-permalink: /posts/2012/08/fatherhood-managerial-style/
+permalink: /posts/2012/fatherhood-managerial-style/
 tags:
   - Publications
 ---
