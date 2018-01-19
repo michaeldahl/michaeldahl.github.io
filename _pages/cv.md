@@ -7,15 +7,13 @@ redirect_from:
   - /resume
 ---
 
-
 ## Education
 * BSc in Economics, Aalborg University, 1997
 * MSc in Industrial Economics (cand.oecon.), Aalborg University, 1999
 * PhD in Economics, Aalborg University, 2004
 
 
-Employment
-======
+## Employment
 * 2015--present: Aarhus University, Department of Management
   * Professor
   * Deputy Head of Department (2017--present)
@@ -27,8 +25,7 @@ Employment
   * Assistant Professor, 2004--2007 (joint appointment with Department of Electronic Systems)
 
 
-Visiting scholarships
-======
+## Visiting scholarships
 * Stanford University, Graduate School of Business, June--August 2015
 * Stanford University, SCANCOR, January--July 2010
 * Carnegie Mellon University, Department of Social and Decision Sciences, March--June, 2007
@@ -36,8 +33,7 @@ Visiting scholarships
 * Technische Universiteit Eindhoven, Eindhoven Center for Innovation Studies, February--June, 2002
 
 
-Services
-======
+## Services
 * Member of the Independent Research Council, Social Science, 2013–-present
   * Chair of Economics Section, 2014-–2015
 * Member of the PhD Council, Department of Management, 2016–-2017
@@ -48,8 +44,7 @@ Services
 * Member of Economics Group, Bibliographic Research Indicator, Danish Agency for Science, Technology and Innovation, 2008–-2013
   
   
-Awards
-======
+## Awards
 * Jorck’s Foundation Research Award 2016
   * The award is given annually to three researchers, who have contributed with research of high international standards to businesses and society in general, €27,500
 * Academy of Management Best Paper Proceedings 2015 (with Mirjam van Praag and Peter Thompson)
@@ -63,8 +58,7 @@ Awards
   * Award given to young business researchers to support a longer stay at a University in the United States, €20,000
 
 
-Grants (selected)
-======
+## Grants (selected)
 * AUFF Nova Grant 2016, €270,000
 * Danish Foundation of Industry 2013 (with Anders Frederiksen and Lars Frederiksen), €300,000
 * Independent Research Council, Social Science 2012, €440,000
