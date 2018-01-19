@@ -59,7 +59,7 @@ Michael S. Dahl, Pernille G. Jensen and Kristian Nielsen (2009), **Jagten på fr
 
 ## Thesis
 
-Michael S. Dahl (2003), **[Knowledge Diffusion and Regional Clusters: Lessons from the Danish ICT Industry](/pubs/thesis)**, Unpublished PhD Thesis, Department of Business Studies, Aalborg University, 250 pages. Submitted: November 3, 2003, Defended: January 26, 2004.
+Michael S. Dahl (2003), **[Knowledge Diffusion and Regional Clusters: Lessons from the Danish ICT Industry](../thesis/)**, Unpublished PhD Thesis, Department of Business Studies, Aalborg University, 250 pages. Submitted: November 3, 2003, Defended: January 26, 2004.
 
 
 ## Book chapters
