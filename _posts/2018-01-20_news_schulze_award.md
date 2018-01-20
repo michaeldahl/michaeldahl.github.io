@@ -1,6 +1,6 @@
 ---
 title: '2017 Schulze Publication Award'
-date: 2012-08-14
+date: 2018-01-20
 permalink: /posts/2018/Schulze_Publication_Award/
 tags:
   - News
