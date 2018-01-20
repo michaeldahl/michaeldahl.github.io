@@ -9,19 +9,19 @@ author_profile: true
 
 M. Diane Burton, Michael S. Dahl and Olav Sorenson (2018, in print), Do Startups Pay Less?, **Industrial and Labor Relations Review**. Forthcoming. -- [DOI](https://doi.org/10.1177/0019793917747240)
 
-Olav Sorenson and Michael S. Dahl (2016), Geography, Joint Choices and the Reproduction of Gender Inequality, **American Sociological Review**, 81(5), 900-920. ISSN: 0003-1224. -- [DOI](https://dx.doi.org/10.1177/0003122416656360) <div data-badge-type="4" data-doi="https://dx.doi.org/10.1177/0003122416656360" data-condensed="true" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
+Olav Sorenson and Michael S. Dahl (2016), Geography, Joint Choices and the Reproduction of Gender Inequality, **American Sociological Review**, 81(5), 900-920. ISSN: 0003-1224. -- [DOI](https://dx.doi.org/10.1177/0003122416656360)
 
-Michael S. Dahl and Steven Klepper (2015), Whom do new firms hire?, **Industrial and Corporate Change** 24(4), 819-836. ISSN: 0960-6491. -- [DOI](https://doi.org/10.1093/icc/dtv026) <div data-badge-type="4" data-doi="https://doi.org/10.1093/icc/dtv026" data-condensed="true" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
+Michael S. Dahl and Steven Klepper (2015), Whom do new firms hire?, **Industrial and Corporate Change** 24(4), 819-836. ISSN: 0960-6491. -- [DOI](https://doi.org/10.1093/icc/dtv026)
     
-Michael S. Dahl and Olav Sorenson (2014), The Who, Why and How of Spin-offs, **Industrial and Corporate Change** 23(3), 661-688. ISSN: 0960-6491. -- [DOI](https://dx.doi.org/10.1093/icc/dtt032) <div data-badge-type="4" data-doi="https://dx.doi.org/10.1093/icc/dtt032" data-condensed="true" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
+Michael S. Dahl and Olav Sorenson (2014), The Who, Why and How of Spin-offs, **Industrial and Corporate Change** 23(3), 661-688. ISSN: 0960-6491. -- [DOI](https://dx.doi.org/10.1093/icc/dtt032)
 
-Lamar Pierce, Michael S. Dahl and Jimmi Nielsen (2013), In Sickness and in Wealth: Psychological and Sexual Costs of Income Comparison in Marriage, **Personality and Social Psychology Bulletin** 39(3), 359-374. ISSN: 0146-1672. -- [DOI](https://dx.doi.org/10.1177/0146167212475321) <div data-badge-type="4" data-doi="https://dx.doi.org/10.1177/0146167212475321" data-condensed="true" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
+Lamar Pierce, Michael S. Dahl and Jimmi Nielsen (2013), In Sickness and in Wealth: Psychological and Sexual Costs of Income Comparison in Marriage, **Personality and Social Psychology Bulletin** 39(3), 359-374. ISSN: 0146-1672. -- [DOI](https://dx.doi.org/10.1177/0146167212475321)
 
-Michael S. Dahl, Cristian Deszo and David Gaddis Ross (2012), Fatherhood and Managerial Style: How a Male CEO’s Children Affect the Wages of His Employees, **Administrative Science Quarterly** 57(4), 669-693. -- [DOI](https://dx.doi.org/10.1177/0001839212466521) <div data-badge-type="4" data-doi="https://dx.doi.org/10.1177/0001839212466521" data-condensed="true" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
+Michael S. Dahl, Cristian Deszo and David Gaddis Ross (2012), Fatherhood and Managerial Style: How a Male CEO’s Children Affect the Wages of His Employees, **Administrative Science Quarterly** 57(4), 669-693. -- [DOI](https://dx.doi.org/10.1177/0001839212466521)
 
-Michael S. Dahl and Olav Sorenson (2012), Home Sweet Home: Entrepreneurs’ Location Choices and the Performance of Their Ventures, **Management Science** 58(6), 1059-1071. ISSN: 0025-1909. _**2017 Schulze Publication Award**_  -- [DOI](https://doi.org/10.1287/mnsc.1110.1476) <div data-badge-type="4" data-doi="https://doi.org/10.1287/mnsc.1110.1476" data-condensed="true" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
+Michael S. Dahl and Olav Sorenson (2012), Home Sweet Home: Entrepreneurs’ Location Choices and the Performance of Their Ventures, **Management Science** 58(6), 1059-1071. ISSN: 0025-1909. _**2017 Schulze Publication Award**_  -- [DOI](https://doi.org/10.1287/mnsc.1110.1476)
 
-Michael S. Dahl (2011), Organizational Change and Employee Stress, **Management Science** 53(2), 240-256. ISSN: 0025-1909. -- [DOI](https://doi.org/10.1287/mnsc.1100.1273) <div data-badge-type="4" data-doi="https://doi.org/10.1287/mnsc.1100.1273" data-condensed="true" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
+Michael S. Dahl (2011), Organizational Change and Employee Stress, **Management Science** 53(2), 240-256. ISSN: 0025-1909. -- [DOI](https://doi.org/10.1287/mnsc.1100.1273)
 
 Jesper L. Christensen, René N. Nielsen, Søren Eliasen, Christian R. Østergaard, and Michael S. Dahl (2011), Patterns and Collaborators of Innovation in the Primary Sector: A study of the Danish Agriculture, Forestry and Fishery Industry, **Industry and Innovation** 18(2), 203-225. ISSN: 1366-2716. -- [DOI](https://doi.org/10.1080/13662716.2011.541105)
 
