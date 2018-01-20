@@ -50,7 +50,7 @@ Toke Reichstein and Michael S. Dahl (2004), Are Firm Growth Rates Random? Patter
 
 ## Books
 
-Michael S. Dahl, Pernille G. Jensen and Kristian Nielsen (2009), **Jagten på fremtidens nye vækstvirksomheder -Hovedrapport**, Copenhagen: DJØF Forlag, 394 pages. ISBN: 978-87-574-2163-7
+Michael S. Dahl, Pernille G. Jensen and Kristian Nielsen (2009), **Jagten på fremtidens nye vækstvirksomheder - Hovedrapport**, Copenhagen: DJØF Forlag, 394 pages. ISBN: 978-87-574-2163-7
 
 Michael S. Dahl, Pernille G. Jensen and Kristian Nielsen (2009), **Jagten på fremtidens nye vækstvirksomheder - Resumé**, Copenhagen: DJØF Forlag, 80 pages. ISBN: 978-87-574-2164-4
 
