@@ -16,6 +16,7 @@ I am honored to receive the [2017 Schulze Publication Award](https://eiexchange.
 Among other recipients:
 
 > **['Home Field Advantage' Works in Business as well as Baseball](https://eiexchange.com/content/259-home-field-advantage-works-in-business-as-well-as-baseball)**
+>
 > Olav Sorenson and Michael S. Dahl
 
 [Read the EIX short article here](https://eiexchange.com/content/259-home-field-advantage-works-in-business-as-well-as-baseball)
