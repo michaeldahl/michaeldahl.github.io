@@ -17,7 +17,7 @@ Michael S. Dahl and Olav Sorenson (2014), The Who, Why and How of Spin-offs, **I
 
 Lamar Pierce, Michael S. Dahl and Jimmi Nielsen (2013), In Sickness and in Wealth: Psychological and Sexual Costs of Income Comparison in Marriage, **Personality and Social Psychology Bulletin** 39(3), 359-374. ISSN: 0146-1672. -- [DOI](https://dx.doi.org/10.1177/0146167212475321) -- [PDF](http://files.msdahl.com/Publications/Pierce-Dahl-Nielsen-2013-PSPB.pdf)
 
-Michael S. Dahl, Cristian Deszo and David Gaddis Ross (2012), Fatherhood and Managerial Style: How a Male CEO’s Children Affect the Wages of His Employees, **Administrative Science Quarterly** 57(4), 669-693. -- [DOI](https://dx.doi.org/10.1177/0001839212466521) -- [PDF]()
+Michael S. Dahl, Cristian Deszo and David Gaddis Ross (2012), Fatherhood and Managerial Style: How a Male CEO’s Children Affect the Wages of His Employees, **Administrative Science Quarterly** 57(4), 669-693. -- [DOI](https://dx.doi.org/10.1177/0001839212466521) -- [PDF](http://files.msdahl.com/Publications/Dahl-Dezso-Ross-2012-ASQ.pdf)
 
 Michael S. Dahl and Olav Sorenson (2012), Home Sweet Home: Entrepreneurs’ Location Choices and the Performance of Their Ventures, **Management Science** 58(6), 1059-1071. ISSN: 0025-1909. _**2017 Schulze Publication Award**_  -- [DOI](https://doi.org/10.1287/mnsc.1110.1476) -- [PDF](http://files.msdahl.com/Publications/Dahl-Sorenson-2012-ManSci.pdf)
 
