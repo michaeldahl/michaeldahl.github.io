@@ -5,7 +5,7 @@ permalink: /press/
 author_profile: true
 ---
 
-####  [Fatherhood and Managerial Style: How a Male CEO’s Children Affect the Wages of His Employees, _**Administrative Science Quarterly**_ 2012](../posts/2012/fatherhood-managerial-style/) (with [Cristian Dezsö](https://scholar.google.com/citations?user=ycXk6WsAAAAJ) and [David Gaddis Ross](https://scholar.google.com/citations?user=cIGfEy0AAAAJ)).
+##  [Fatherhood and Managerial Style: How a Male CEO’s Children Affect the Wages of His Employees, _**Administrative Science Quarterly**_ 2012](../posts/2012/fatherhood-managerial-style/) (with [Cristian Dezsö](https://scholar.google.com/citations?user=ycXk6WsAAAAJ) and [David Gaddis Ross](https://scholar.google.com/citations?user=cIGfEy0AAAAJ)).
   * "[Pink or blue? Your pay hike tied to the gender of boss' firstborn](http://timesofindia.indiatimes.com/home/science/Pink-or-blue-Your-pay-hike-tied-to-the-gender-of-boss-firstborn/articleshow/17933980.cms)", _The Times of India_, 08/01/2013 -- [PDF](https://files.msdahl.com/Press/ASQ12/2013-01-08_TimesOfIndia.pdf)
   * "[Your boss’ firstborn may affect your salary: Study](http://www.thehindubusinessline.com/features/your-boss-firstborn-may-affect-your-salary-study/article4283163.ece)", _The Hindu Business Line_, 08/01/2013 -- [PDF](https://files.msdahl.com/Press/ASQ12/2013-01-08_TheHinduBusinessLine.pdf)
   * "[Here's What Will Happen To Your Salary If Your Male CEO Just Had A Kid](http://www.businessinsider.com/how-a-ceos-kids-affect-your-pay-2013-1)", _Business Insider_, 07/01/2013 (Max Nisen) -- [PDF](https://files.msdahl.com/Press/ASQ12/2013-01-07_BusinessInsider.pdf)
@@ -14,7 +14,7 @@ author_profile: true
   * "[Bosses and fatherhood: Of corner offices and cribs](http://www.economist.com/news/business/21567082-when-your-boss-has-baby-watch-your-wallet-corner-offices-and-cribs)", _The Economist_, 24/11/2012 -- [PDF](https://files.msdahl.com/Press/ASQ12/2012-11-24_TheEconomist.pdf)
 
 
-#### [Home Sweet Home: Entrepreneurs’ Location Choices and the Performance of Their Ventures, _**Management Science**_ 2012](https://../posts/2012/homesweethome/) (with [Olav Sorenson](http://www.olavsorenson.net)).
+## [Home Sweet Home: Entrepreneurs’ Location Choices and the Performance of Their Ventures, _**Management Science**_ 2012](https://../posts/2012/homesweethome/) (with [Olav Sorenson](http://www.olavsorenson.net)).
   * "[Entrepreneurship, innovation must be taught](http://www.vancouversun.com/business/2035/Entrepreneurship+innovation+must+taught/7618255/story.html)", _Vancouver Sun_, 27/11/2012 (Ian McCarthy) -- [PDF](https://files.msdahl.com/Press/HSH/2012-11-27_VancouverSun.pdf)
   * Radio interview with <a title="Olav Sorenson" href="http://www.olavsorenson.net" target="_blank">Olav Sorenson</a> (co-author of this paper), "[The best place to start up a company](http://www.marketplace.org/topics/world/best-place-start-company)", _Marketplace Business (American Public Media)_, 15/08/2012 (Jeremy Hobson and Jeff Horwich) -- [MP3](https://files.msdahl.com/Press/HSH/2012-08-15_MarketplaceRadioOlav.mp3")
   * "[What’s the Best Place in the World to Start a Company?](http://business.time.com/2012/08/14/whats-the-best-place-in-the-world-to-start-a-company/)", _Time_, 14/08/2012 (Jessica Stillman) -- [PDF](https://files.msdahl.com/Press/HSH/2012-08-14_Time.pdf)
@@ -30,14 +30,14 @@ author_profile: true
   * "[Start-ups Located in Founders' Home Regions Survive Longer, Earn Higher Profits](http://mba.yale.edu/news_events/CMS/Articles/7616.shtml)", _Yale School of Management Press Release_, 16/07/2012 -- [PDF](https://files.msdahl.com/Press/HSH/2012-07-16_Yale.pdf)
 
 
-####  Organizational Change and Employee Stress, _**Management Science**_ 2011
+##  Organizational Change and Employee Stress, _**Management Science**_ 2011
   * "Angst vorm Wandel", Health@Work (Germany), 02/2012 (Christiane Paul) -- [PDF](https://files.msdahl.com/Press/HealthatWork02-2012.pdf)
   * "[Zu viel Wandel macht Mitarbeiter krank](http://www.handelsblatt.com/politik/oekonomie/wissenswert/zu-viel-wandel-macht-mitarbeiter-krank/5750110.html?p5750110=all)", _Handelsblatt_, 28/10/2011 (Olaf Storbeck) -- [PDF](https://files.msdahl.com/Press/Handelsblatt28-10-2011.pdf)
   * "[The reorg is stressing us out](http://lifeinc.today.msnbc.msn.com/_news/2011/05/10/6612737-the-reorg-is-stressing-us-out)", _LifeInc. NBC Today_, 10/05/2011 (Allison Linn) -- [PDF](https://files.msdahl.com/Press/Inc.Magazine05-2011.pdf)
   * "[More Workers Need Stress Meds After Org Changes](http://web.hbr.org/email/archive/dailystat.php?date=050611)", The Daily Stat, Harvard Business Review, 06/05/2011  -- [PDF](https://files.msdahl.com/Press/DailyStatBlogHBR06-05-2011.pdf)
 
 
-#### The Social Attachment to Place, _**Social Forces**_ 2010 (with [Olav Sorenson](http://www.olavsorenson.net)).
+## The Social Attachment to Place, _**Social Forces**_ 2010 (with [Olav Sorenson](http://www.olavsorenson.net)).
   * "[Location Matters When Hiring for Talent", _Inc. Magazine_, May 2011 (J. J. McCorvey) ](http://www.inc.com/magazine/20110501/location-matters-when-hiring-for-talent.html) -- [PDF](https://files.msdahl.com/Press/Inc.Magazine05-2011.pdf)
 
 
