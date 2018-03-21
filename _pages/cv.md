@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 ## Education
-* BSc in Economics, Aalborg University, 1997
-* MSc in Industrial Economics (cand.oecon.), Aalborg University, 1999
 * PhD in Economics, Aalborg University, 2004
+* MSc in Industrial Economics (cand.oecon.), Aalborg University, 1999
+* BSc in Economics, Aalborg University, 1997
 
 
 ## Employment
@@ -36,15 +36,17 @@ redirect_from:
 ## Services
 * Member of the Independent Research Council, Social Science, 2013–-present
   * Chair of Economics Section, 2014-–2015
-* Member of the PhD Council, Department of Management, 2016–-2017
+  * Member of the National Committee for Research Infrastructure, 2015--2017
+* Member of the PhD Council, Department of Management, Aarhus University, 2016–-2017
 * Member of the Board of Directors, DRUID, 2006–2015
   * Deputy Director, 2011–-2014
 * Head of PhD Program, Department of Business Studies, Aalborg University, 2007-–2009
-* Department representative, Ph.D. Study Board, Faculty of Social Sciences, 2008–-2009
+* Department representative, Ph.D. Study Board, Faculty of Social Sciences, Aalborg University, 2008–-2009
 * Member of Economics Group, Bibliographic Research Indicator, Danish Agency for Science, Technology and Innovation, 2008–-2013
   
   
 ## Awards
+* Schulze Publication Award 2017 (with Olav Sorenson)
 * Jorck’s Foundation Research Award 2016
   * The award is given annually to three researchers, who have contributed with research of high international standards to businesses and society in general, €27,500
 * Academy of Management Best Paper Proceedings 2015 (with Mirjam van Praag and Peter Thompson)
@@ -59,7 +61,7 @@ redirect_from:
 
 
 ## Grants (selected)
-* AUFF Nova Grant 2016, €270,000
+* Aarhus University Research Foundation Nova Grant 2016, €270,000
 * Danish Foundation of Industry 2013 (with Anders Frederiksen and Lars Frederiksen), €300,000
 * Independent Research Council, Social Science 2012, €440,000
 * Independent Research Council, Social Science 2008, €320,000
