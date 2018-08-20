@@ -46,6 +46,7 @@ redirect_from:
   
   
 ## Awards
+* Academy of Management Distinguished Paper Award 2018 - Strategy Division (with [Lamar Pierce](https://www.lamarpierce.net))
 * Schulze Publication Award 2017 (with Olav Sorenson)
 * Jorck’s Foundation Research Award 2016
   * The award is given annually to three researchers, who have contributed with research of high international standards to businesses and society in general, €27,500
