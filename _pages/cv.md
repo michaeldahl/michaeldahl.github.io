@@ -47,12 +47,12 @@ redirect_from:
   
 ## Awards
 * Academy of Management Distinguished Paper Award 2018 - Strategy Division (with [Lamar Pierce](https://www.lamarpierce.net))
-* Schulze Publication Award 2017 (with Olav Sorenson)
+* Schulze Publication Award 2017 (with [Olav Sorenson](http://www.olavsorenson.net))
 * Jorck’s Foundation Research Award 2016
   * The award is given annually to three researchers, who have contributed with research of high international standards to businesses and society in general, €27,500
-* Academy of Management Best Paper Proceedings 2015 (with Mirjam van Praag and Peter Thompson)
-* Best Paper Award, European Meeting of Applied Evolutionary Economics 2011 (with Pernille Gjerløv-Juel)
-* Best Paper Award, European Management Review 2009 (with Olav Sorenson)
+* Academy of Management Best Paper Proceedings 2015 (with [Mirjam van Praag](https://scholar.google.com/citations?user=_DG87ikAAAAJ&hl=en) and [Peter Thompson](https://scholar.google.com/citations?user=JfUVbEsAAAAJ&hl=en))
+* Best Paper Award, European Meeting of Applied Evolutionary Economics 2011 (with [Pernille Gjerløv-Juel](https://scholar.google.com/citations?user=qmt9GCYAAAAJ&hl=en))
+* Best Paper Award, European Management Review 2009 (with [Olav Sorenson](http://www.olavsorenson.net))
 * Tietgen Gold Medal Research Award 2006
   * Award given to promissing young scholars in economics and business, €13,500
 * Spar Nord Foundation Research Award 2005
@@ -63,10 +63,10 @@ redirect_from:
 
 ## Grants (selected)
 * Aarhus University Research Foundation Nova Grant 2016, €270,000
-* Danish Foundation of Industry 2013 (with Anders Frederiksen and Lars Frederiksen), €300,000
+* Danish Foundation of Industry 2013 (with [Anders Frederiksen](https://scholar.google.com/citations?user=qmt9GCYAAAAJ&hl=en) and [Lars Frederiksen](https://scholar.google.com/citations?user=qmt9GCYAAAAJ&hl=en)), €300,000
 * Independent Research Council, Social Science 2012, €440,000
 * Independent Research Council, Social Science 2008, €320,000
-* Oticon Foundation 2008 (Conference grant, with Keld Laursen and Steven Klepper), €20,000
-* Independent Research Council, Social Science 2008 (Conference grant, with Keld Laursen and Steven Klepper), €13,400
+* Oticon Foundation 2008 (Conference grant, with [Keld Laursen](https://scholar.google.com/citations?user=j_L_OH0AAAAJ&hl=en) and [Steven Klepper](https://www.cmu.edu/dietrich/sds/people/in-memoriam/steven-klepper.html)), €20,000
+* Independent Research Council, Social Science 2008 (Conference grant, with [Keld Laursen](https://scholar.google.com/citations?user=j_L_OH0AAAAJ&hl=en) and [Steven Klepper](https://www.cmu.edu/dietrich/sds/people/in-memoriam/steven-klepper.html)), €13,400
 * Rockwool Foundation 2007, €430,000
 * Marie Curie Fellowship Exchange Grant 2002 (Travel grant), €4,400
