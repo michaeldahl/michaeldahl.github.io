@@ -9,7 +9,7 @@ author_profile: true
 
 M. Diane Burton, Michael S. Dahl and Olav Sorenson (2018), Do Startups Pay Less?, **Industrial and Labor Relations Review**, 71(5), 1179-1200. ISSN: 0019-7939 -- [DOI](https://doi.org/10.1177/0019793917747240)
 
-Olav Sorenson and Michael S. Dahl (2016), Geography, Joint Choices and the Reproduction of Gender Inequality, **American Sociological Review**, 81(5), 900-920. ISSN: 0003-1224. -- [DOI](https://dx.doi.org/10.1177/0003122416656360) -- [PDF](http://files.msdahl.com/Publications/Sorenson-Dahl-2016-ASR.pdf)
+Olav Sorenson and Michael S. Dahl (2016), Geography, Joint Choices and the Reproduction of Gender Inequality, **American Sociological Review**, 81(5), 900-920. ISSN: 0003-1224. -- [DOI](https://dx.doi.org/10.1177/0003122416656360) -- [PDF](https://michaeldahl.github.io/files/pubs/Sorenson-Dahl-2016-ASR.pdf)
 
 Michael S. Dahl and Steven Klepper (2015), Whom do new firms hire?, **Industrial and Corporate Change** 24(4), 819-836. ISSN: 0960-6491. -- [DOI](https://doi.org/10.1093/icc/dtv026) -- [PDF](http://files.msdahl.com/Publications/Dahl-Klepper-2015-ICC.pdf)
     
