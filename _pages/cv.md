@@ -34,7 +34,7 @@ redirect_from:
 
 
 ## Services
-* Member of the Independent Research Council, Social Science, 2013–-present
+* Member of the Independent Research Council, Social Science, 2013–-2018
   * Chair of Economics Section, 2014-–2015
   * Member of the National Committee for Research Infrastructure, 2015--2017
 * Member of the PhD Council, Department of Management, Aarhus University, 2016–-2017
