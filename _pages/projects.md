@@ -29,7 +29,7 @@ __Pipeline__:
 
 This paper provides the first evidence linking pay-for-performance (P4P) adoption by employers to long-term and serious mental health problems in employees. Matching survey-based data on P4P adoption by 1,309 Danish firms with objective wage, demographic, and medical prescription data of their 318,717 full-time employees, we find a four to six percent increase in the usage of anti-depressant and anti-anxiety medication after firms adopt P4P. This change appears almost exclusively in those with lower wage changes and those older than fifty. We also find evidence that workers select in and out of P4P firms based on mental health considerations, which implies that mental health effects influence job retention and attrition. Finally, we show different responses from female and male employees to the mental health threat of performance-based pay. Women with latent or potential mental health concerns appear to leave firms after P4P adoption, while men show now such response. Although we cannot claim a causal relationship, collectively our results support prior theoretical arguments that performance-based pay may indeed increase stress. More importantly, our study shows that the mental health costs of performance-based pay can be severe, necessitating medical treatment and possibly job change for some individuals.
 
-_Resubmitted_ -- [PDF](https://files.msdahl.com/WorkingPapers/DahlPierce.pdf)
+_Accepted for publication in **Academy of Management Discoveries**_ -- [PDF](https://files.msdahl.com/WorkingPapers/DahlPierce.pdf)
 _Winner of Annual Meeting of the Academy of Management Distinguished Paper Award 2018 (Strategy Division)_
 
 ## Entrepreneurial Couples
