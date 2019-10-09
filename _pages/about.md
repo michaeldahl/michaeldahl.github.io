@@ -14,4 +14,4 @@ My research focuses on organizations, entrepreneurship and economic geography wi
 
 Before joining the Department of Management at Aarhus BSS, I was a Full Professor at the Department of Business and Management, Aalborg University. In addition, I have held visiting scholarships at Carnegie Mellon University, Stanford University, and Eindhoven Center for Innovation Studies.
 
-I currently serve on the Independent Research Council, Social Science.
+I served on the Independent Research Council, Social Science from 2013 to 2018.
