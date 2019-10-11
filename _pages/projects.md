@@ -5,6 +5,21 @@ permalink: /projects/
 author_profile: true
 ---
 
+## Entrepreneurship and Inequality
+
+The social scientific evidence linking entrepreneurship, individuals’ lives, and economic inequality and prosperity remains limited at best. We know little about the jobs created by new firms and how the risk of firm failure affects the careers and life courses of individuals. Who are the beneficiaries of entrepreneurial activity? How are the careers and life courses of the individuals affected by entrepreneurship? This multi-paper project’s aim is to provide a rigorous set of analyses leading to a much deeper understanding of entrepreneurship and inequality focusing on these and other related questions.
+
+__Pipeline__:
+
+  * [M. Diane Burton](https://scholar.google.com/citations?user=dreTJDYAAAAJ&hl=da), Michael S. Dahl and [Olav Sorenson](http://www.olavsorenson.net) (2018), Do Startups Pay Less?, Industrial and Labor Relations Review. [DOI](https://doi.org/10.1177/0019793917747240)
+
+  * [Olav Sorenson](http://www.olavsorenson.net), Michael S. Dahl, [Rodrigo Canales](https://scholar.google.com/citations?user=TUt5VNMAAAAJ&hl=en) and [M. Diane Burton](https://scholar.google.com/citations?user=dreTJDYAAAAJ&hl=da), The Startup Employee Earnings Gap: The Long-term Income Consequences of Joining Small and Young Firms. 2nd round R&R.
+
+  * [Tünde Cserpes](https://www.tundecserpes.com/), Michael S. Dahl and [Olav Sorenson](http://www.olavsorenson.net), Creative Destruction? Startups and divorce. Submitted.
+
+___
+
+
 ## Career Effects of Mental Health
 
 *with [Barbara Biasi](https://www.barbarabiasi.com) and [Petra Moser](https://www.petramoser.net)*
@@ -13,16 +28,6 @@ One in twelve Americans is affected by a mental health disorder. This paper exam
 
 [PDF](https://files.msdahl.com/WorkingPapers/BiasiDahlMoser2018.pdf)
 
-___
-
-## Entrepreneurship and Inequality
-
-The social scientific evidence linking entrepreneurship, individuals’ lives, and economic inequality and prosperity remains limited at best. We know little about the jobs created by new firms and how the risk of firm failure affects the careers and life courses of individuals. Who are the beneficiaries of entrepreneurial activity? How are the careers and life courses of the individuals affected by entrepreneurship? This multi-paper project’s aim is to provide a rigorous set of analyses leading to a much deeper understanding of entrepreneurship and inequality focusing on these and other related questions.
-
-__Pipeline__:
-  * [M. Diane Burton](https://scholar.google.com/citations?user=dreTJDYAAAAJ&hl=da), Michael S. Dahl and [Olav Sorenson](http://www.olavsorenson.net) (2018), Do Startups Pay Less?, Industrial and Labor Relations Review. [DOI](https://doi.org/10.1177/0019793917747240)
-  * [Olav Sorenson](http://www.olavsorenson.net), Michael S. Dahl, [Rodrigo Canales](https://scholar.google.com/citations?user=TUt5VNMAAAAJ&hl=en) and [M. Diane Burton](https://scholar.google.com/citations?user=dreTJDYAAAAJ&hl=da), The Startup Employee Earnings Gap: The Long-term Income Consequences of Joining Small and Young Firms. 2nd round R&R.
-  * [Tünde Cserpes](https://www.tundecserpes.com/), Michael S. Dahl and [Olav Sorenson](http://www.olavsorenson.net), Creative Destruction? Startups and divorce. Submitted.
 ___
 
 ## Pay-for-Performance and Employee Mental Health: Large Sample Evidence Using Employee Prescription Drug Usage
