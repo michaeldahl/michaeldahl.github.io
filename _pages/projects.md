@@ -13,6 +13,7 @@ One in twelve Americans is affected by a mental health disorder. This paper exam
 
 [PDF](https://files.msdahl.com/WorkingPapers/BiasiDahlMoser2018.pdf)
 
+___
 
 ## Entrepreneurship and Inequality
 
@@ -20,8 +21,9 @@ The social scientific evidence linking entrepreneurship, individuals’ lives, a
 
 __Pipeline__:
   * [M. Diane Burton](https://scholar.google.com/citations?user=dreTJDYAAAAJ&hl=da), Michael S. Dahl and [Olav Sorenson](http://www.olavsorenson.net) (2018), Do Startups Pay Less?, Industrial and Labor Relations Review. [DOI](https://doi.org/10.1177/0019793917747240)
-  * [Olav Sorenson](http://www.olavsorenson.net), Michael S. Dahl, [Rodrigo Canales](https://scholar.google.com/citations?user=TUt5VNMAAAAJ&hl=en) and [M. Diane Burton](https://scholar.google.com/citations?user=dreTJDYAAAAJ&hl=da), The Startup Employee Earnings Gap: The Long-term Income Consequences of Joining Small and Young Firms. Submitted.
-  
+  * [Olav Sorenson](http://www.olavsorenson.net), Michael S. Dahl, [Rodrigo Canales](https://scholar.google.com/citations?user=TUt5VNMAAAAJ&hl=en) and [M. Diane Burton](https://scholar.google.com/citations?user=dreTJDYAAAAJ&hl=da), The Startup Employee Earnings Gap: The Long-term Income Consequences of Joining Small and Young Firms. 2nd round R&R.
+  * [Tünde Cserpes](https://www.tundecserpes.com/), Michael S. Dahl and [Olav Sorenson](http://www.olavsorenson.net), Creative Destruction? Startups and divorce. Submitted.
+___
 
 ## Pay-for-Performance and Employee Mental Health: Large Sample Evidence Using Employee Prescription Drug Usage
 
@@ -32,6 +34,8 @@ This paper provides evidence linking pay-for-performance (P4P) adoption by emplo
 _Accepted for publication in **Academy of Management Discoveries**_ -- [PDF](https://pure.au.dk/portal/files/145808369/AMD_2018_0007.final.pdf) -- [DOI](https://doi.org/10.5465/amd.2018.0007)
 
 _Winner of Annual Meeting of the Academy of Management Distinguished Paper Award 2018 (Strategy Division)_
+
+___
 
 ## Entrepreneurial Couples
 
