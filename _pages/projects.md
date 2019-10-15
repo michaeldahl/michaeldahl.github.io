@@ -19,7 +19,6 @@ __Pipeline__:
 
 ___
 
-
 ## Career Effects of Mental Health
 
 *with [Barbara Biasi](https://www.barbarabiasi.com) and [Petra Moser](https://www.petramoser.net)*
@@ -27,6 +26,16 @@ ___
 One in twelve Americans is affected by depression, bipolar disorder, schizophrenia, or another type of mental health disorder. This paper uses individual-level registry data and a change in the treatment of BD to investigate the career effects of mental health. Cross- sectional analyses show that mental health disorders carry immense earnings penalties. After a diagnosis, earnings drop by roughly one fifth for people with depression, one fourth for people with BD, and two fifths for people with schizophrenia. To identify the causal effects of mental health, we exploit the approval of lithium as a maintenance treatment for BD in 1976. Comparing earnings penalties for people with differential access, we find that access to treatment eliminates more than one third of the earnings penalty from BD. Disability is an important mechanism for lower earnings. Compared with their siblings, people with BD are 4.5 times more likely to receive disability; access to treatment eliminates more than half of this excess risk. We also find that parental wealth mitigates the career effects of mental health. Compared with the top quantile of parental wealth, people in the bottom quantile suffer substantially more severe adverse effects from mental health disorders, and they benefit three times as much from treatment.
 
 [PDF](https://files.msdahl.com/WorkingPapers/bip191011_FINAL.pdf) (Latest version: October 2019)
+
+___
+
+## The Effect of High-Performer Migration and Entrepreneurship on Parent Firm Performance
+
+*with [Pernille Gjerløv-Juel](https://vbn.aau.dk/en/persons/116672)
+
+We investigate the effect on parent firm performance from high-performer migration to same-industry start-ups. We propose two set of mechanism to explain this effect. 1) high-performer migration to same-industry start-ups enables competition by transferring human and complementary assets from the parent firm to a competitor and 2) it induces a loss of human assets. In support of the latter, we find that performance effects of same-industry start-ups are comparable to other types of high-performer migration including noncompetitive destinations. These findings demonstrate that competitive migration might not be more harmful than other types of high-performer migration.
+
+[PDF](https://files.msdahl.com/WorkingPapers/HighPerformers_2019.pdf) R&R, under revision (Latest version: May 2019)
 
 ___
 
