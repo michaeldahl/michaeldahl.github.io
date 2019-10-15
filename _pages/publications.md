@@ -9,7 +9,7 @@ author_profile: true
 
 Michael S. Dahl and Lamar Pierce (in print), Pay-for-Performance and Employee Mental Health: Large Sample Evidence Using Employee Prescription Drug Usage, **Academy of Management Discoveries**, Accepted 8 February 2019.
 
-M. Diane Burton, Michael S. Dahl and Olav Sorenson (2018), Do Startups Pay Less?, **Industrial and Labor Relations Review**, 71(5), 1179-1200. ISSN: 0019-7939 -- [DOI](https://doi.org/10.1177/0019793917747240)
+M. Diane Burton, Michael S. Dahl and Olav Sorenson (2018), Do Startups Pay Less?, **Industrial and Labor Relations Review**, 71(5), 1179-1200. ISSN: 0019-7939 -- [DOI](https://doi.org/10.1177/0019793917747240) -- [PDF](https://files.msdahl.com/Publications/Burton-etal-2018-ILRR.pdf)
 
 Olav Sorenson and Michael S. Dahl (2016), Geography, Joint Choices and the Reproduction of Gender Inequality, **American Sociological Review**, 81(5), 900-920. ISSN: 0003-1224. -- [DOI](https://dx.doi.org/10.1177/0003122416656360) -- [PDF](https://michaeldahl.github.io/files/pubs/Sorenson-Dahl-2016-ASR.pdf)
 
