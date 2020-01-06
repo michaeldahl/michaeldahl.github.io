@@ -31,7 +31,7 @@ ___
 
 ## The Effect of High-Performer Migration and Entrepreneurship on Parent Firm Performance
 
-*with [Pernille Gjerløv-Juel](https://vbn.aau.dk/en/persons/116672)
+*with [Pernille Gjerløv-Juel](https://vbn.aau.dk/en/persons/116672)*
 
 We investigate the effect on parent firm performance from high-performer migration to same-industry start-ups. We propose two set of mechanism to explain this effect. 1) high-performer migration to same-industry start-ups enables competition by transferring human and complementary assets from the parent firm to a competitor and 2) it induces a loss of human assets. In support of the latter, we find that performance effects of same-industry start-ups are comparable to other types of high-performer migration including noncompetitive destinations. These findings demonstrate that competitive migration might not be more harmful than other types of high-performer migration.
 
