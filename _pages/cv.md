@@ -2,8 +2,8 @@
 layout: archive
 title: "Short CV"
 permalink: /cv/
-author_profile: true
-redirect_from:
+author\_profile: true
+redirect\_from:
   - /resume
 ---
 
@@ -43,16 +43,17 @@ redirect_from:
 * Head of PhD Program, Department of Business Studies, Aalborg University, 2007-–2009
 * Department representative, Ph.D. Study Board, Faculty of Social Sciences, Aalborg University, 2008–-2009
 * Member of Economics Group, Bibliographic Research Indicator, Danish Agency for Science, Technology and Innovation, 2008–-2013
-  
-  
+	  
+	  
 ## Awards
-* Academy of Management Distinguished Paper Award 2018 - Strategy Division (with [Lamar Pierce](https://www.lamarpierce.net))
-* Schulze Publication Award 2017 (with [Olav Sorenson](http://www.olavsorenson.net))
+* IACMR-RRBM Award for Responsible Research in Management 2020 (with [Lamar Pierce][1]) 
+* Academy of Management Distinguished Paper Award 2018 - Strategy Division (with [Lamar Pierce][2])
+* Schulze Publication Award 2017 (with [Olav Sorenson][3])
 * Jorck’s Foundation Research Award 2016
   * The award is given annually to three researchers, who have contributed with research of high international standards to businesses and society in general, €27,500
-* Academy of Management Best Paper Proceedings 2015 (with [Mirjam van Praag](https://scholar.google.com/citations?user=_DG87ikAAAAJ&hl=en) and [Peter Thompson](https://scholar.google.com/citations?user=JfUVbEsAAAAJ&hl=en))
-* Best Paper Award, European Meeting of Applied Evolutionary Economics 2011 (with [Pernille Gjerløv-Juel](https://scholar.google.com/citations?user=qmt9GCYAAAAJ&hl=en))
-* Best Paper Award, European Management Review 2009 (with [Olav Sorenson](http://www.olavsorenson.net))
+* Academy of Management Best Paper Proceedings 2015 (with [Mirjam van Praag][4] and [Peter Thompson][5])
+* Best Paper Award, European Meeting of Applied Evolutionary Economics 2011 (with [Pernille Gjerløv-Juel][6])
+* Best Paper Award, European Management Review 2009 (with [Olav Sorenson][7])
 * Tietgen Gold Medal Research Award 2006
   * Award given to promissing young scholars in economics and business, €13,500
 * Spar Nord Foundation Research Award 2005
@@ -63,10 +64,24 @@ redirect_from:
 
 ## Grants (selected)
 * Aarhus University Research Foundation Nova Grant 2016, €270,000
-* Danish Foundation of Industry 2013 (with [Anders Frederiksen](https://scholar.google.com/citations?user=qmt9GCYAAAAJ&hl=en) and [Lars Frederiksen](https://scholar.google.com/citations?user=qmt9GCYAAAAJ&hl=en)), €300,000
+* Danish Foundation of Industry 2013 (with [Anders Frederiksen][8] and [Lars Frederiksen][9]), €300,000
 * Independent Research Council, Social Science 2012, €440,000
 * Independent Research Council, Social Science 2008, €320,000
-* Oticon Foundation 2008 (Conference grant, with [Keld Laursen](https://scholar.google.com/citations?user=j_L_OH0AAAAJ&hl=en) and [Steven Klepper](https://www.cmu.edu/dietrich/sds/people/in-memoriam/steven-klepper.html)), €20,000
-* Independent Research Council, Social Science 2008 (Conference grant, with [Keld Laursen](https://scholar.google.com/citations?user=j_L_OH0AAAAJ&hl=en) and [Steven Klepper](https://www.cmu.edu/dietrich/sds/people/in-memoriam/steven-klepper.html)), €13,400
+* Oticon Foundation 2008 (Conference grant, with [Keld Laursen][10] and [Steven Klepper][11]), €20,000
+* Independent Research Council, Social Science 2008 (Conference grant, with [Keld Laursen][12] and [Steven Klepper][13]), €13,400
 * Rockwool Foundation 2007, €430,000
 * Marie Curie Fellowship Exchange Grant 2002 (Travel grant), €4,400
+
+[1]:	https://www.lamarpierce.net
+[2]:	https://www.lamarpierce.net
+[3]:	http://www.olavsorenson.net
+[4]:	https://scholar.google.com/citations?user=_DG87ikAAAAJ&hl=en
+[5]:	https://scholar.google.com/citations?user=JfUVbEsAAAAJ&hl=en
+[6]:	https://scholar.google.com/citations?user=qmt9GCYAAAAJ&hl=en
+[7]:	http://www.olavsorenson.net
+[8]:	https://scholar.google.com/citations?user=qmt9GCYAAAAJ&hl=en
+[9]:	https://scholar.google.com/citations?user=qmt9GCYAAAAJ&hl=en
+[10]:	https://scholar.google.com/citations?user=j_L_OH0AAAAJ&hl=en
+[11]:	https://www.cmu.edu/dietrich/sds/people/in-memoriam/steven-klepper.html
+[12]:	https://scholar.google.com/citations?user=j_L_OH0AAAAJ&hl=en
+[13]:	https://www.cmu.edu/dietrich/sds/people/in-memoriam/steven-klepper.html
