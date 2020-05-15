@@ -19,7 +19,7 @@ redirect\_from:
   * Deputy Head of Department (2017--present)
 
 * 2004--2015: Aalborg University, Department of Business and Management
-  * Professor, 2012--2015, on leave from 2015--2017)
+  * Professor, 2012--2015 (on leave from 2015--2017)
   * Professor with special responsibilities, 2010--2012
   * Associate Professor, 2007--2009
   * Assistant Professor, 2004--2007 (joint appointment with Department of Electronic Systems)
@@ -34,16 +34,29 @@ redirect\_from:
 
 
 ## Services
-* Member of the Independent Research Council, Social Science, 2013–-2018
+* Chairman of the Entrepreneurship Initiative Workgroup, Aarhus University, 2018--2019
+  
+  * Strategy for entrepreneurship for students and faculty that lead to the establishment of the incubator, The Kitchen.
+  
+* Associate Editor, Industrial and Corporate Change, 2013--present
+  
+* Member of the Danish Independent Research Council | Social Science, 2013–-2018
+  
   * Chair of Economics Section, 2014-–2015
   * Member of the National Committee for Research Infrastructure, 2015--2017
+  
 * Member of the PhD Council, Department of Management, Aarhus University, 2016–-2017
-* Member of the Board of Directors, DRUID, 2006–2015
+
+* Member of the Board of Directors, DRUID, 2006–-2015
+  
   * Deputy Director, 2011–-2014
+  
 * Head of PhD Program, Department of Business Studies, Aalborg University, 2007-–2009
+
 * Department representative, Ph.D. Study Board, Faculty of Social Sciences, Aalborg University, 2008–-2009
+
 * Member of Economics Group, Bibliographic Research Indicator, Danish Agency for Science, Technology and Innovation, 2008–-2013
-	  
+	
 	  
 ## Awards
 * IACMR-RRBM Award for Responsible Research in Management 2020 (with [Lamar Pierce][1]) 
