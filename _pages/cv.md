@@ -40,7 +40,7 @@ redirect\_from:
   
 * Associate Editor, Industrial and Corporate Change, 2013--present
   
-* Member of the Danish Independent Research Council | Social Science, 2013–-2018
+* Member of the Danish Independent Research Council \| Social Science, 2013–-2018
   
   * Chair of Economics Section, 2014-–2015
   * Member of the National Committee for Research Infrastructure, 2015--2017
