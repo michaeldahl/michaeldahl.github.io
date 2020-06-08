@@ -79,8 +79,8 @@ analytics:
 # Site Author
 author:
   name             : "Michael S Dahl"
-  avatar           : dahlmgmt-bw.jpg
-  bio              : "Professor, Deputy Head of Department"
+  avatar           : "dahlmgmt-bw.jpg"
+  bio              : "Professor"
   location         : "Aarhus, Denmark"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=KyXHkI4AAAAJ&hl=en"
