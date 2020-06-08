@@ -14,10 +14,11 @@ redirect\_from:
 
 
 ## Employment
-* 2015--present: Aarhus University, Department of Management
+* From August 2020: Aalborg University Business School
+  * Professor of Strategy and Organization
+* 2015--2020: Aarhus University, Department of Management
   * Professor
-  * Deputy Head of Department (2017--present)
-
+  * Deputy Head of Department (2017--2020)
 * 2004--2015: Aalborg University, Department of Business and Management
   * Professor, 2012--2015 (on leave from 2015--2017)
   * Professor with special responsibilities, 2010--2012
