@@ -11,7 +11,7 @@ The social scientific evidence linking entrepreneurship, individuals’ lives, a
 
 __Pipeline__:
 
-  * [M. Diane Burton](https://scholar.google.com/citations?user=dreTJDYAAAAJ&hl=da), Michael S. Dahl and [Olav Sorenson](http://www.olavsorenson.net) (2018), Do Startups Pay Less?, Industrial and Labor Relations Review. [DOI](https://doi.org/10.1177/0019793917747240) -- [PDF](https://files.msdahl.com/Publications/Burton-etal-2018-ILRR.pdf)
+  * [M. Diane Burton](https://scholar.google.com/citations?user=dreTJDYAAAAJ&hl=da), Michael S. Dahl and [Olav Sorenson](http://www.olavsorenson.net) (2018), Do Startups Pay Less?, Industrial and Labor Relations Review. [DOI](https://doi.org/10.1177/0019793917747240) -- [PDF](https://michaeldahl.github.io/files/pubs/Burton-etal-2018-ILRR.pdf)
 
   * [Olav Sorenson](http://www.olavsorenson.net), Michael S. Dahl, [Rodrigo Canales](https://scholar.google.com/citations?user=TUt5VNMAAAAJ&hl=en) and [M. Diane Burton](https://scholar.google.com/citations?user=dreTJDYAAAAJ&hl=da), Do startup employees earn more in the long-run?. Accepted for publication in *Organization Science*.
 
@@ -25,7 +25,7 @@ ___
 
 One in twelve Americans is affected by depression, bipolar disorder, schizophrenia, or another type of mental health disorder. This paper uses individual-level registry data and a change in the treatment of BD to investigate the career effects of mental health. Cross- sectional analyses show that mental health disorders carry immense earnings penalties. After a diagnosis, earnings drop by roughly one fifth for people with depression, one fourth for people with BD, and two fifths for people with schizophrenia. To identify the causal effects of mental health, we exploit the approval of lithium as a maintenance treatment for BD in 1976. Comparing earnings penalties for people with differential access, we find that access to treatment eliminates more than one third of the earnings penalty from BD. Disability is an important mechanism for lower earnings. Compared with their siblings, people with BD are 4.5 times more likely to receive disability; access to treatment eliminates more than half of this excess risk. We also find that parental wealth mitigates the career effects of mental health. Compared with the top quantile of parental wealth, people in the bottom quantile suffer substantially more severe adverse effects from mental health disorders, and they benefit three times as much from treatment.
 
-[PDF](https://files.msdahl.com/WorkingPapers/bip191011_FINAL.pdf) (Latest version: October 2019)
+[PDF](https://michaeldahl.github.io/files/wp/bip191011_FINAL.pdf) (Latest version: October 2019)
 
 ___
 
@@ -35,7 +35,7 @@ ___
 
 We investigate the effect on parent firm performance from high-performer migration to same-industry start-ups. We propose two set of mechanism to explain this effect. 1) high-performer migration to same-industry start-ups enables competition by transferring human and complementary assets from the parent firm to a competitor and 2) it induces a loss of human assets. In support of the latter, we find that performance effects of same-industry start-ups are comparable to other types of high-performer migration including noncompetitive destinations. These findings demonstrate that competitive migration might not be more harmful than other types of high-performer migration.
 
-[PDF](https://files.msdahl.com/WorkingPapers/HighPerformers_2019.pdf) -- R&R, under revision (Latest version: May 2019)
+[PDF](https://michaeldahl.github.io/files/wp/HighPerformers_2019.pdf) -- R&R, under revision (Latest version: May 2019)
 
 ___
 
@@ -45,7 +45,7 @@ ___
 
 We study motivations for and outcomes of couples starting up a joint firm, using a sample of 1,069 Danish couples that established a joint enterprise between 2001 and 2010, while comparing them to a set of comparable firms and couples. The main motivation for joint entrepreneurship is to create a labor market position for (female) spouses with limited alternative opportunities. This decision has positive effects: the financial benefits for each of the spouses, and especially the female, are larger in co-entrepreneurial firms, both during the life of the business and post-dissolution. This also reduces income inequality in the household.
 
-_Academy of Management Best Paper Proceedings 2015_ -- [DOI](https://dx.doi.org/10.5465/AMBPP.2015.204) -- [PDF](https://files.msdahl.com/Publications/Dahl-VanPraag-Thompson-2015-AOM.pdf)
+_Academy of Management Best Paper Proceedings 2015_ -- [DOI](https://dx.doi.org/10.5465/AMBPP.2015.204) -- [PDF](https://michaeldahl.github.io/files/pubs/Dahl-VanPraag-Thompson-2015-AOM.pdf)
 
 
 
