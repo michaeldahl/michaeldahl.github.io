@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ```
-![Photo](./images/dahlmgmt-bw.jpg)
+<div style="text-align: right"><img src="https://michaeldahl.github.io/image/dahlmgmt-bw.jpg" alt="me" width="200"/></div>
 ```
 
 I am a Professor of Entrepreneurship and Organizational Behavior at the [Department of Management](https://mgmt.au.dk), [Aarhus School of Business and Social Science, Aarhus University](https://bss.au.dk), Denmark. I have PhD (2004) and MSc in Industrial Economics (1999), both from Aalborg University. 
