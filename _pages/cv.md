@@ -14,7 +14,7 @@ redirect\_from:
 
 
 ## Employment
-* From August 2020: Aalborg University Business School
+* 2020--present: Aalborg University Business School
   * Professor of Strategy and Organization
 * 2015--2020: Aarhus University, Department of Management
   * Professor
@@ -34,7 +34,9 @@ redirect\_from:
 * Technische Universiteit Eindhoven, Eindhoven Center for Innovation Studies, February--June, 2002
 
 
-## Services
+## Services and responsibilities
+* Head of research unit, *Strategic Organization and Management*, Aalborg University Business School, 2020--present
+
 * Chairman of the Entrepreneurship Initiative Workgroup, Aarhus University, 2018--2019
   
   * Strategy for entrepreneurship for students and faculty that lead to the establishment of the incubator, The Kitchen.
