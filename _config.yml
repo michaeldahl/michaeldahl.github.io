@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Michael S. Dahl"
 title_separator          : "-"
 name                     : &name "Michael S. Dahl"
-description              : &description "Professor and Deputy Head of Department at Department of Management, Aarhus BSS, Aarhus University, Denmark"
+description              : &description "Professor, Aalborg University Business School, Denmark"
 url                      : https://michaeldahl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "michaeldahl.github.io"
@@ -84,7 +84,7 @@ author:
   location         : "Aalborg, Denmark"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=KyXHkI4AAAAJ&hl=en"
-  email            : "msd@mgmt.au.dk"
+  email            : "msd@business.aau.dk"
   uri              :
   bitbucket        :
   codepen          :
@@ -94,7 +94,7 @@ author:
   foursquare       :
   github           : "michaeldahl"
   google_plus      :
-  keybase          :
+  keybase          : "msdahl"
   instagram        :
   lastfm           :
   linkedin         : "http://www.linkedin.com/in/msdahl"
