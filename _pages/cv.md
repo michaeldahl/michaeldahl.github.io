@@ -8,7 +8,7 @@ redirect\_from:
 ---
 
 ## Education
-* PhD in Economics, Aalborg University, 2004
+* PhD in Economics and Innovation, Aalborg University, 2004
 * MSc in Industrial Economics (cand.oecon.), Aalborg University, 1999
 * BSc in Economics, Aalborg University, 1997
 
@@ -35,7 +35,7 @@ redirect\_from:
 
 
 ## Services and responsibilities
-* Head of research unit, *Strategic Organization and Management*, Aalborg University Business School, 2020--present
+* Head of research group, *Strategy, Organization and Management*, Aalborg University Business School, 2020--present
 
 * Chairman of the Entrepreneurship Initiative Workgroup, Aarhus University, 2018--2019
   
