@@ -15,7 +15,7 @@ __Pipeline__:
 
   * [Olav Sorenson](http://www.olavsorenson.net), Michael S. Dahl, [Rodrigo Canales](https://scholar.google.com/citations?user=TUt5VNMAAAAJ&hl=en) and [M. Diane Burton](https://scholar.google.com/citations?user=dreTJDYAAAAJ&hl=da), Do startup employees earn more in the long-run?. Accepted for publication in *Organization Science*.
 
-  * [Tünde Cserpes](https://www.tundecserpes.com/), Michael S. Dahl and [Olav Sorenson](http://www.olavsorenson.net), Creative Destruction? Startups and Divorce. Submitted.
+  * [Tünde Cserpes](https://www.tundecserpes.com/), Michael S. Dahl and [Olav Sorenson](http://www.olavsorenson.net), Creative Destruction? Startups and Divorce. R&R.
 
 ___
 
@@ -25,7 +25,7 @@ ___
 
 One in twelve Americans is affected by depression, bipolar disorder, schizophrenia, or another type of mental health disorder. This paper uses individual-level registry data and a change in the treatment of BD to investigate the career effects of mental health. Cross- sectional analyses show that mental health disorders carry immense earnings penalties. After a diagnosis, earnings drop by roughly one fifth for people with depression, one fourth for people with BD, and two fifths for people with schizophrenia. To identify the causal effects of mental health, we exploit the approval of lithium as a maintenance treatment for BD in 1976. Comparing earnings penalties for people with differential access, we find that access to treatment eliminates more than one third of the earnings penalty from BD. Disability is an important mechanism for lower earnings. Compared with their siblings, people with BD are 4.5 times more likely to receive disability; access to treatment eliminates more than half of this excess risk. We also find that parental wealth mitigates the career effects of mental health. Compared with the top quantile of parental wealth, people in the bottom quantile suffer substantially more severe adverse effects from mental health disorders, and they benefit three times as much from treatment.
 
-[PDF](https://michaeldahl.github.io/files/wp/bip191011_FINAL.pdf) (Latest version: October 2019)
+[PDF](https://www.barbarabiasi.com/uploads/1/0/1/2/101280322/biasidahlmoser_mentalhealth.pdf) (Latest version: November 2020)
 
 ___
 
