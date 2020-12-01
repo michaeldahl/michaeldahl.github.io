@@ -4,7 +4,7 @@ collection: teaching
 type: "PhD course (mandatory)"
 permalink: /teaching/PhDmethods
 venue: "Aarhus BSS, Department of Management"
-date: 2016-2019
+date: 2019-09-01
 location: "Aarhus, Denmark"
 ---
 
