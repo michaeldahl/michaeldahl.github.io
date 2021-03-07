@@ -16,6 +16,9 @@ redirect\_from:
 ## Employment
 * 2020--present: Aalborg University Business School
   * Professor of Strategy and Organization
+* 2021--present: Norwegian School of Economics
+  * Professor II, Department of Strategy and Management
+
 * 2015--2020: Aarhus University, Department of Management
   * Professor
   * Deputy Head of Department (2017--2020)
