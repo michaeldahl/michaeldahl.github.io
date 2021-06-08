@@ -7,7 +7,9 @@ author_profile: true
 
 ## Articles in peer-reviewed refereed journals
 
-Olav Sorenson, Michael S. Dahl, Rodrigo Canales and M. Diane Burton (forthcoming), Do startup employees earn more in the long-run?, **Organization Science**, Accepted 5 January 2020.
+Pernille Gjerløv-Juel, Michael S. Dahl (in print), High-Performer Mobility to Entrepreneurship and Parent-Firm Performance, **Strategic Entrepreneurship Journal**, Accepted 24 May 2021, available in Accepted Articles -- [DOI](https://doi.org/10.1002/sej.1403) -- [PDF](https://onlinelibrary.wiley.com/doi/epdf/10.1002/sej.1403)
+
+Olav Sorenson, Michael S. Dahl, Rodrigo Canales and M. Diane Burton (in print), Do startup employees earn more in the long-run?, **Organization Science**, Accepted 5 January 2020, available in Ahead of Print -- [DOI](https://doi.org/10.1287/orsc.2020.1371) -- [PDF](https://pubsonline.informs.org/doi/pdf/10.1287/orsc.2020.1371)
 
 Michael S. Dahl and Lamar Pierce (2020), Pay-for-Performance and Employee Mental Health: Large Sample Evidence Using Employee Prescription Drug Usage, **Academy of Management Discoveries**, 6(1), 12–38. -- [DOI](https://doi.org/10.5465/amd.2018.0007) -- [PDF](https://pure.au.dk/portal/files/145808369/AMD_2018_0007.final.pdf)
 
@@ -65,6 +67,8 @@ Michael S. Dahl (2003), **[Knowledge Diffusion and Regional Clusters: Lessons fr
 
 
 ## Book chapters
+
+Kristian Nielsen, Michael S. Dahl, Bram Timmermans and Jesper Lindgaard Christensen (2021), Entrepreneurship, Experimentation and Innovation: Future Policy for Innovative Growth-Oriented Entrepreneurs, Jesper Lindgaard Christensen, Birgitte Gregersen, Jacob Rubæk Holm, Edward Lorenz (eds.) in: **Globalisation, New and Emerging Technologies, and Sustainable Development: The Danish Innovation System in Transition**, Routledge. ISBN: 9780367480479.
 
 Pernille Gjerløv-Juel and Michael S. Dahl (2012), Spin-off Growth and Job Creation: Evidence on Denmark, in: Guido Buenstorf (ed.), **Evolution, Organization And Economic Behavior**, Edward Elgar. ISBN: 978-1-84980-628-2.
 
