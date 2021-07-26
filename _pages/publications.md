@@ -9,7 +9,7 @@ author_profile: true
 
 Pernille Gjerløv-Juel, Michael S. Dahl (in print), High-Performer Mobility to Entrepreneurship and Parent-Firm Performance, **Strategic Entrepreneurship Journal**, Accepted 24 May 2021, available in Accepted Articles -- [DOI](https://doi.org/10.1002/sej.1403) -- [PDF](https://onlinelibrary.wiley.com/doi/epdf/10.1002/sej.1403)
 
-Olav Sorenson, Michael S. Dahl, Rodrigo Canales and M. Diane Burton (in print), Do startup employees earn more in the long-run?, **Organization Science**, Accepted 5 January 2020, available in Ahead of Print -- [DOI](https://doi.org/10.1287/orsc.2020.1371) -- [PDF](https://pubsonline.informs.org/doi/pdf/10.1287/orsc.2020.1371)
+Olav Sorenson, Michael S. Dahl, Rodrigo Canales and M. Diane Burton (2021), Do startup employees earn more in the long-run?, **Organization Science**, 32(3) 527-908 -- [DOI](https://doi.org/10.1287/orsc.2020.1371) -- [PDF](https://pubsonline.informs.org/doi/pdf/10.1287/orsc.2020.1371)
 
 Michael S. Dahl and Lamar Pierce (2020), Pay-for-Performance and Employee Mental Health: Large Sample Evidence Using Employee Prescription Drug Usage, **Academy of Management Discoveries**, 6(1), 12–38. -- [DOI](https://doi.org/10.5465/amd.2018.0007) -- [PDF](https://pure.au.dk/portal/files/145808369/AMD_2018_0007.final.pdf)
 
