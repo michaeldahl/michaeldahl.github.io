@@ -13,7 +13,7 @@ __Pipeline__:
 
   * [M. Diane Burton](https://scholar.google.com/citations?user=dreTJDYAAAAJ&hl=da), Michael S. Dahl and [Olav Sorenson](http://www.olavsorenson.net) (2018), Do Startups Pay Less?, *Industrial and Labor Relations Review*. -- [DOI](https://doi.org/10.1177/0019793917747240) -- [PDF](https://michaeldahl.github.io/files/pubs/Burton-etal-2018-ILRR.pdf)
 
-  * [Olav Sorenson](http://www.olavsorenson.net), Michael S. Dahl, [Rodrigo Canales](https://scholar.google.com/citations?user=TUt5VNMAAAAJ&hl=en) and [M. Diane Burton](https://scholar.google.com/citations?user=dreTJDYAAAAJ&hl=da), Do startup employees earn more in the long-run?, *Organization Science*, 32(2) pp. 527-908, C2. -- [DOI](https://doi.org/10.1287/orsc.2020.1371) -- [PDF](https://pubsonline.informs.org/doi/pdf/10.1287/orsc.2020.1371)
+  * [Olav Sorenson](http://www.olavsorenson.net), Michael S. Dahl, [Rodrigo Canales](https://scholar.google.com/citations?user=TUt5VNMAAAAJ&hl=en) and [M. Diane Burton](https://scholar.google.com/citations?user=dreTJDYAAAAJ&hl=da), Do startup employees earn more in the long-run?, *Organization Science*, 32(2) pp. 527-604, C2. -- [DOI](https://doi.org/10.1287/orsc.2020.1371) -- [PDF](https://pubsonline.informs.org/doi/pdf/10.1287/orsc.2020.1371)
 
   * [Tünde Cserpes](https://www.tundecserpes.com/), Michael S. Dahl and [Olav Sorenson](http://www.olavsorenson.net), Creative Destruction? Startups and Divorce. R&R.
 
