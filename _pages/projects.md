@@ -11,9 +11,9 @@ The social scientific evidence linking entrepreneurship, individuals’ lives, a
 
 __Pipeline__:
 
-  * [M. Diane Burton](https://scholar.google.com/citations?user=dreTJDYAAAAJ&hl=da), Michael S. Dahl and [Olav Sorenson](http://www.olavsorenson.net) (2018), Do Startups Pay Less?, Industrial and Labor Relations Review. -- [DOI](https://doi.org/10.1177/0019793917747240) -- [PDF](https://michaeldahl.github.io/files/pubs/Burton-etal-2018-ILRR.pdf)
+  * [M. Diane Burton](https://scholar.google.com/citations?user=dreTJDYAAAAJ&hl=da), Michael S. Dahl and [Olav Sorenson](http://www.olavsorenson.net) (2018), Do Startups Pay Less?, *Industrial and Labor Relations Review*. -- [DOI](https://doi.org/10.1177/0019793917747240) -- [PDF](https://michaeldahl.github.io/files/pubs/Burton-etal-2018-ILRR.pdf)
 
-  * [Olav Sorenson](http://www.olavsorenson.net), Michael S. Dahl, [Rodrigo Canales](https://scholar.google.com/citations?user=TUt5VNMAAAAJ&hl=en) and [M. Diane Burton](https://scholar.google.com/citations?user=dreTJDYAAAAJ&hl=da), Do startup employees earn more in the long-run?. Accepted for publication in *Organization Science*. -- [DOI](https://doi.org/10.1287/orsc.2020.1371) -- [PDF](https://pubsonline.informs.org/doi/pdf/10.1287/orsc.2020.1371)
+  * [Olav Sorenson](http://www.olavsorenson.net), Michael S. Dahl, [Rodrigo Canales](https://scholar.google.com/citations?user=TUt5VNMAAAAJ&hl=en) and [M. Diane Burton](https://scholar.google.com/citations?user=dreTJDYAAAAJ&hl=da), Do startup employees earn more in the long-run?, *Organization Science*, 32(2) pp. 527-908, C2. -- [DOI](https://doi.org/10.1287/orsc.2020.1371) -- [PDF](https://pubsonline.informs.org/doi/pdf/10.1287/orsc.2020.1371)
 
   * [Tünde Cserpes](https://www.tundecserpes.com/), Michael S. Dahl and [Olav Sorenson](http://www.olavsorenson.net), Creative Destruction? Startups and Divorce. R&R.
 
@@ -23,9 +23,9 @@ ___
 
 *with [Barbara Biasi](https://www.barbarabiasi.com) and [Petra Moser](https://www.petramoser.net)*
 
-One in twelve Americans is affected by depression, bipolar disorder, schizophrenia, or another type of mental health disorder. This paper uses individual-level registry data and a change in the treatment of BD to investigate the career effects of mental health. Cross- sectional analyses show that mental health disorders carry immense earnings penalties. After a diagnosis, earnings drop by roughly one fifth for people with depression, one fourth for people with BD, and two fifths for people with schizophrenia. To identify the causal effects of mental health, we exploit the approval of lithium as a maintenance treatment for BD in 1976. Comparing earnings penalties for people with differential access, we find that access to treatment eliminates more than one third of the earnings penalty from BD. Disability is an important mechanism for lower earnings. Compared with their siblings, people with BD are 4.5 times more likely to receive disability; access to treatment eliminates more than half of this excess risk. We also find that parental wealth mitigates the career effects of mental health. Compared with the top quantile of parental wealth, people in the bottom quantile suffer substantially more severe adverse effects from mental health disorders, and they benefit three times as much from treatment.
+This paper investigates the career effects of mental health, focusing on depression, schizophrenia, and bipolar disorder (BD). Individual-level registry data from Denmark show that these disorders carry large earnings penalties, ranging from 34 percent for depression and 38 percent for BD to 74 percent for schizophrenia. To investigate the causal effects of mental health on a person’s career, we exploit the approval of lithium as a maintenance treatment for BD in 1976. Baseline estimates compare career outcomes for people with and without access in their 20s, the typical age of onset for BD. These estimates show that access to treatment eliminates one third of the earnings penalty associated with BD and greatly reduces the risks of low or no earnings. Importantly, access to treatment closes more than half of the disability risk associated with BD.
 
-[PDF](https://www.barbarabiasi.com/uploads/1/0/1/2/101280322/biasidahlmoser_mentalhealth.pdf) (Latest version: November 2020)
+NBER Working Paper #w29031 [DOI](https://doi.org/10.3386/w29031) (Latest version: July 2021)
 
 ___
 
