@@ -25,7 +25,10 @@ ___
 
 This paper investigates the career effects of mental health, focusing on depression, schizophrenia, and bipolar disorder (BD). Individual-level registry data from Denmark show that these disorders carry large earnings penalties, ranging from 34 percent for depression and 38 percent for BD to 74 percent for schizophrenia. To investigate the causal effects of mental health on a person’s career, we exploit the approval of lithium as a maintenance treatment for BD in 1976. Baseline estimates compare career outcomes for people with and without access in their 20s, the typical age of onset for BD. These estimates show that access to treatment eliminates one third of the earnings penalty associated with BD and greatly reduces the risks of low or no earnings. Importantly, access to treatment closes more than half of the disability risk associated with BD.
 
-NBER Working Paper #w29031 -- [DOI](https://doi.org/10.3386/w29031) -- (Latest version: July 2021)
+(Latest version: July 2021)
+
+NBER Working Paper #w29031 -- [DOI/PDF](https://doi.org/10.3386/w29031)
+CEPR Discussion Paper #16401 -- [PDF](https://cepr.org/active/publications/discussion_papers/dp.php?dpno=16401)
 
 ___
 
