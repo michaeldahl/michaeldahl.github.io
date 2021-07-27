@@ -28,6 +28,7 @@ This paper investigates the career effects of mental health, focusing on depress
 (Latest version: July 2021)
 
 NBER Working Paper #w29031 -- [DOI/PDF](https://doi.org/10.3386/w29031)
+
 CEPR Discussion Paper #16401 -- [PDF](https://cepr.org/active/publications/discussion_papers/dp.php?dpno=16401)
 
 ___
