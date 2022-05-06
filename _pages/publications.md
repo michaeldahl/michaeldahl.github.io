@@ -7,7 +7,7 @@ author_profile: true
 
 ## Articles in peer-reviewed refereed journals
 
-Pernille Gjerløv-Juel, Michael S. Dahl (in print), High-Performer Mobility to Entrepreneurship and Parent-Firm Performance, **Strategic Entrepreneurship Journal**, Accepted 24 May 2021, available in Accepted Articles -- [DOI](https://doi.org/10.1002/sej.1403) -- [PDF](https://onlinelibrary.wiley.com/doi/epdf/10.1002/sej.1403)
+Pernille Gjerløv-Juel, Michael S. Dahl (2022), High-Performer Mobility to Entrepreneurship and Parent-Firm Performance, **Strategic Entrepreneurship Journal**, 16(1) 129-154 -- [DOI](https://doi.org/10.1002/sej.1403) -- [PDF](https://onlinelibrary.wiley.com/doi/epdf/10.1002/sej.1403)
 
 Olav Sorenson, Michael S. Dahl, Rodrigo Canales and M. Diane Burton (2021), Do startup employees earn more in the long-run?, **Organization Science**, 32(3) 527-604. ISSN: 1047-7039. -- [DOI](https://doi.org/10.1287/orsc.2020.1371) -- [PDF](https://pubsonline.informs.org/doi/pdf/10.1287/orsc.2020.1371)
 
