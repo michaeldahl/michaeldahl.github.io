@@ -7,11 +7,12 @@ author_profile: true
 
 ## Articles in peer-reviewed refereed journals
 
-Toke Reichstein, Christine D. Isakson, Michael S. Dahl (2022), Residential Location Choices of an Isolated Work Force - Shifts in Social Attachment of Former Seafarers, **Maritime Studies** - Accepted for publication (in print)
+
+Christine D. Isakson, Michael S. Dahl, and Toke Reichstein (2022), Residential Location Choices of an Isolated Work Force - Shifts in Social Attachment of Former Seafarers, **Maritime Studies** -- [DOI](https://doi.org/10.1007/s40152-022-00275-0)
 
 Pernille Gjerløv-Juel, Michael S. Dahl (2022), High-Performer Mobility to Entrepreneurship and Parent-Firm Performance, **Strategic Entrepreneurship Journal**, 16(1) 129-154 -- [DOI](https://doi.org/10.1002/sej.1403) -- [PDF](https://onlinelibrary.wiley.com/doi/epdf/10.1002/sej.1403)
 
-Olav Sorenson, Michael S. Dahl, Rodrigo Canales and M. Diane Burton (2021), Do startup employees earn more in the long-run?, **Organization Science**, 32(3) 527-604. ISSN: 1047-7039. -- [DOI](https://doi.org/10.1287/orsc.2020.1371) -- [PDF](https://pubsonline.informs.org/doi/pdf/10.1287/orsc.2020.1371)
+Olav Sorenson, Michael S. Dahl, Rodrigo Canales, and M. Diane Burton (2021), Do startup employees earn more in the long-run?, **Organization Science**, 32(3) 527-604. ISSN: 1047-7039. -- [DOI](https://doi.org/10.1287/orsc.2020.1371) -- [PDF](https://pubsonline.informs.org/doi/pdf/10.1287/orsc.2020.1371)
 
 Michael S. Dahl and Lamar Pierce (2020), Pay-for-Performance and Employee Mental Health: Large Sample Evidence Using Employee Prescription Drug Usage, **Academy of Management Discoveries**, 6(1), 12–38. -- [DOI](https://doi.org/10.5465/amd.2018.0007) -- [PDF](https://pure.au.dk/portal/files/145808369/AMD_2018_0007.final.pdf)
 
