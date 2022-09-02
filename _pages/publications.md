@@ -7,6 +7,7 @@ author_profile: true
 
 ## Articles in peer-reviewed refereed journals
 
+Thomas Borup Kristensen, Jeffrey Pfeffer, Michael S. Dahl, Morten Holm, Melanie Lucia Feldhues (2022), Does depression co-occur within households? The moderating effects of financial resources and job insecurity on psychological contagion, **SSM - Population Health** (Social Science and Medicine -- [DOI](https://doi.org/10.1016/j.ssmph.2022.101212)
 
 Christine D. Isakson, Michael S. Dahl, and Toke Reichstein (2022), Residential Location Choices of an Isolated Work Force - Shifts in Social Attachment of Former Seafarers, **Maritime Studies** -- [DOI](https://doi.org/10.1007/s40152-022-00275-0)
 
