@@ -84,6 +84,7 @@ redirect\_from:
 
 
 ## Grants (selected)
+* Carlsberg Foundation Monography Grant 2022, €160,000
 * Aarhus University Research Foundation Nova Grant 2016, €270,000
 * Danish Foundation of Industry 2013 (with [Anders Frederiksen][8] and [Lars Frederiksen][9]), €300,000
 * Independent Research Council, Social Science 2012, €440,000
