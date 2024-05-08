@@ -3,17 +3,17 @@ main:
   - title: "Publications"
     url: /pubs/   
   
-  - title: "Projects"
+  - title: "Working Papers"
     url: /projects/  
     
   - title: "CV"
     url: /cv/
     
-  - title: "Press"
-    url: /press/
+ # - title: "Press"
+ #   url: /press/
     
-  - title: "Blog"
-    url: /year-archive/
+ # - title: "Blog"
+ #   url: /year-archive/
     
  # - title: "Teaching"
  #   url: /teaching/    
