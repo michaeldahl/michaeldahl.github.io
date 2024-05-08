@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Working papers"
+title: "Working Papers"
 permalink: /projects/
 author_profile: true
 ---
