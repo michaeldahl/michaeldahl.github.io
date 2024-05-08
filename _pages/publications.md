@@ -7,11 +7,13 @@ author_profile: true
 
 ## Articles in peer-reviewed refereed journals
 
-Tekin Esen, Michael S. Dahl, Olav Sorenson (2023, in print), Jockeys, horses or teams? The selection of startups by venture capitalists, **Journal of Business Venturing Insights**, Accepted for publication on March 10, 2023
+Barbara Biasi, Michael S. Dahl, Petra Moser (2024), The role of bipolar disorder and family wealth in choosing creative occupations, **Scientific Reports**.
 
-Thomas Borup Kristensen, Jeffrey Pfeffer, Michael S. Dahl, Morten Holm, Melanie Lucia Feldhues (2022), Does depression co-occur within households? The moderating effects of financial resources and job insecurity on psychological contagion, **SSM - Population Health** (Companion journal of Social Science and Medicine) -- [DOI](https://doi.org/10.1016/j.ssmph.2022.101212)
+Tekin Esen, Michael S. Dahl, Olav Sorenson (2023), Jockeys, horses or teams? The selection of startups by venture capitalists, **Journal of Business Venturing Insights**, Volume 19, June 2023, e00383 -- [DOI](https://doi.org/10.1016/j.jbvi.2023.e00383) -- [PDF](https://www.sciencedirect.com/science/article/pii/S2352673423000124/pdfft?md5=4def1faf7f1ae1f5b4ab589608410d53&pid=1-s2.0-S2352673423000124-main.pdf)
 
-Christine D. Isakson, Michael S. Dahl, and Toke Reichstein (2022), Residential Location Choices of an Isolated Work Force - Shifts in Social Attachment of Former Seafarers, **Maritime Studies** -- [DOI](https://doi.org/10.1007/s40152-022-00275-0)
+Thomas Borup Kristensen, Jeffrey Pfeffer, Michael S. Dahl, Morten Holm, Melanie Lucia Feldhues (2022), Does depression co-occur within households? The moderating effects of financial resources and job insecurity on psychological contagion, **SSM - Population Health** (Companion journal of Social Science and Medicine), Volume 19, September 2022, 101212 -- [DOI](https://doi.org/10.1016/j.ssmph.2022.101212) -- [PDF](https://www.sciencedirect.com/science/article/pii/S2352827322001914/pdfft?md5=ed56c853f75b34e562c5dd58cb960d4d&pid=1-s2.0-S2352827322001914-main.pdf)
+
+Christine D. Isakson, Michael S. Dahl, and Toke Reichstein (2022), Residential Location Choices of an Isolated Work Force - Shifts in Social Attachment of Former Seafarers, **Maritime Studies**, 21, 353–362. -- [DOI](https://doi.org/10.1007/s40152-022-00275-0)
 
 Pernille Gjerløv-Juel, Michael S. Dahl (2022), High-Performer Mobility to Entrepreneurship and Parent-Firm Performance, **Strategic Entrepreneurship Journal**, 16(1) 129-154 -- [DOI](https://doi.org/10.1002/sej.1403) -- [PDF](https://onlinelibrary.wiley.com/doi/epdf/10.1002/sej.1403)
 
