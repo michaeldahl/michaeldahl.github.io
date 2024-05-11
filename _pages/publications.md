@@ -7,7 +7,7 @@ author_profile: true
 
 ## Articles in peer-reviewed refereed journals
 
-Barbara Biasi, Michael S. Dahl, Petra Moser (2024), The role of bipolar disorder and family wealth in choosing creative occupations, **Scientific Reports**.
+Barbara Biasi, Michael S. Dahl, Petra Moser (2024), The role of bipolar disorder and family wealth in choosing creative occupations, **Scientific Reports**, Vol 14, Article No. 10703 -- [DOI](https://doi.org/10.1038/s41598-024-61320-y) -- [PDF](https://www.nature.com/articles/s41598-024-61320-y.pdf)
 
 Tekin Esen, Michael S. Dahl, Olav Sorenson (2023), Jockeys, horses or teams? The selection of startups by venture capitalists, **Journal of Business Venturing Insights**, Volume 19, June 2023, e00383 -- [DOI](https://doi.org/10.1016/j.jbvi.2023.e00383) -- [PDF](https://www.sciencedirect.com/science/article/pii/S2352673423000124/pdfft?md5=4def1faf7f1ae1f5b4ab589608410d53&pid=1-s2.0-S2352673423000124-main.pdf)
 
