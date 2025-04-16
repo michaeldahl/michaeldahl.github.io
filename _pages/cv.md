@@ -66,6 +66,7 @@ redirect\_from:
 	
 	  
 ## Awards
+* Knight of the Order of Dannebrog 2023
 * 2021 Schulze Publication Award (with [Olav Sorenson][3], [M. Diane Burton](https://www.ilr.cornell.edu/people/m-diane-burton), and [Rodrigo Canales](https://rodrigocanales.com/))
 * IACMR-RRBM Award for Responsible Research in Management 2020 (with [Lamar Pierce][1]) 
 * Academy of Management Distinguished Paper Award 2018 - Strategy Division (with [Lamar Pierce][2])
