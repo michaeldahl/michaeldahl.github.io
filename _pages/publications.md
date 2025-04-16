@@ -76,7 +76,11 @@ Michael S. Dahl (2003), **[Knowledge Diffusion and Regional Clusters: Lessons fr
 
 ## Book chapters
 
-Kristian Nielsen, Michael S. Dahl, Bram Timmermans and Jesper Lindgaard Christensen (2021), Entrepreneurship, Experimentation and Innovation: Future Policy for Innovative Growth-Oriented Entrepreneurs, Jesper Lindgaard Christensen, Birgitte Gregersen, Jacob Rubæk Holm, Edward Lorenz (eds.) in: **Globalisation, New and Emerging Technologies, and Sustainable Development: The Danish Innovation System in Transition**, Routledge. ISBN: 9780367480479.
+Michael S. Dahl (2025), Bestyrelsen og succession, in: Steen Thomsen (ed.) **Bestyrelsesbogen**, DJØF Forlag. ISBN: 9788757461640.
+
+Michael S. Dahl, Louise Brøns Kringelum, Agnieszka Nowinska, Thomas Roslyng Olesen (2023), Trans-fur-able resources? Strategic responses to a crisis in the danish mink-related ecosystem, in: Svetla T. Marinova, Marin A. Marinov (eds.) **Reconfiguration of Business Models and Ecosystems: Decoupling and Resilience**, Routledge. ISBN: 9781003326731.
+
+Kristian Nielsen, Michael S. Dahl, Bram Timmermans and Jesper Lindgaard Christensen (2021), Entrepreneurship, Experimentation and Innovation: Future Policy for Innovative Growth-Oriented Entrepreneurs, in: Jesper Lindgaard Christensen, Birgitte Gregersen, Jacob Rubæk Holm, Edward Lorenz (eds.) **Globalisation, New and Emerging Technologies, and Sustainable Development: The Danish Innovation System in Transition**, Routledge. ISBN: 9780367480479.
 
 Pernille Gjerløv-Juel and Michael S. Dahl (2012), Spin-off Growth and Job Creation: Evidence on Denmark, in: Guido Buenstorf (ed.), **Evolution, Organization And Economic Behavior**, Edward Elgar. ISBN: 978-1-84980-628-2.
 
