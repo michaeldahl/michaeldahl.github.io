@@ -12,8 +12,8 @@ main:
  # - title: "Press"
  #   url: /press/
     
- # - title: "Blog"
- #   url: /year-archive/
+  - title: "Danish blog"
+    url: https://blog.msdahl.net
     
  # - title: "Teaching"
  #   url: /teaching/    
