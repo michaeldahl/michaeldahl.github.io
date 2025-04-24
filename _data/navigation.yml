@@ -9,10 +9,10 @@ main:
   - title: "CV"
     url: /cv/
     
- # - title: "Press"
- #   url: /press/
+  - title: "Data"
+    url: /data/
     
-  - title: "Danish blog"
+  - title: "Blog (Danish)"
     url: https://blog.msdahl.net
     
  # - title: "Teaching"
