@@ -7,7 +7,7 @@ author_profile: true
 
 ## Articles in peer-reviewed refereed journals
 
-Barbara Biasi, Michael S. Dahl, Petra Moser (forthcoming), Career Effects of Mental Health: Evidence from an Innovation in Treating Bipolar Disorder, **Journal of Political Economy Microeconomics** -- [DOI](https://doi.org/10.1086/737572)
+Barbara Biasi, Michael S. Dahl, Petra Moser (forthcoming), Career Effects of Mental Health: Evidence from an Innovation in Treating Bipolar Disorder, **Journal of Political Economy Microeconomics** -- [DOI](https://doi.org/10.1086/737572) -- [PDF](https://vbn.aau.dk/files/790965913/career_mh.pdf)
 
 Barbara Biasi, Michael S. Dahl, Petra Moser (2024), The role of bipolar disorder and family wealth in choosing creative occupations, **Scientific Reports**, Vol 14, Article No. 10703 -- [DOI](https://doi.org/10.1038/s41598-024-61320-y) -- [PDF](https://www.nature.com/articles/s41598-024-61320-y.pdf)
 
