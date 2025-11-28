@@ -25,3 +25,9 @@ For our book, "*The Spatial Ecology of Entrepreneurship*" (Dahl & Sorenson, fort
 - [Danmarks Statistik, Dansk Branchekode - Kompendium 2007](https://www.dst.dk/da/Statistik/nyheder-analyser-publ/Publikationer/VisPub?cid=11457)
 
 Comments and questions are welcome.
+
+---
+
+## LaTeX templates
+
+- [AAUBS Beamer Template](https://github.com/michaeldahl/aaubs-beamer-template) - A LaTeX beamer template for presentations at Aalborg University Business School
