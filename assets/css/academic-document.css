@@ -27,3 +27,5 @@
   .academic-document__sections { gap: 4px 18px; }
   .academic-document__sections a { display: flex; align-items: center; min-height: 44px; }
 }
+
+.academic-document--cases .academic-document__body h3 { font-weight: 700; }
