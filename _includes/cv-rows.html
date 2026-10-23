@@ -1,0 +1,17 @@
+<ol class="cv-rows{% if include.timeline %} cv-rows--timeline{% endif %}">
+  {% for item in include.items %}
+  <li class="cv-row">
+    <div class="cv-row__date">{{ item.date | escape }}</div>
+    <div class="cv-row__content">
+      <div class="cv-row__title">{{ item.title | markdownify }}</div>
+      {% if item.details.size > 0 %}
+        {% if include.collapse_details %}<details class="cv-row__details"><summary>About this award</summary>{% endif %}
+        <ul class="cv-row__notes">
+          {% for detail in item.details %}<li>{{ detail | markdownify }}</li>{% endfor %}
+        </ul>
+        {% if include.collapse_details %}</details>{% endif %}
+      {% endif %}
+    </div>
+  </li>
+  {% endfor %}
+</ol>

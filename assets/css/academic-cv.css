@@ -1,0 +1,32 @@
+.academic-cv { font-size: 16px; line-height: 1.6; }
+.academic-cv .cv-eyebrow { color: #5b6468; font-size: 12px; letter-spacing: 1.2px; text-transform: uppercase; margin-bottom: 12px; }
+.academic-cv .cv-intro h1 { font-size: 32px; line-height: 1.2; margin-bottom: 24px; }
+.cv-section-nav { display: flex; flex-wrap: wrap; gap: 10px 20px; font-size: 13px; padding-bottom: 26px; }
+.academic-cv .cv-section { margin-top: 30px; }
+.academic-cv .cv-section > h2 { font-size: 22px; margin-bottom: 18px; padding-top: 25px; border-top: 1px solid #d9dedf; }
+.academic-cv .cv-section--current { margin-top: 0; }
+.cv-current { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 28px; }
+.academic-cv .cv-appointment__date { color: #5b6468; font-size: 13px; margin-bottom: 8px; }
+.academic-cv .cv-appointment h3 { font-size: 18px; line-height: 1.4; margin-bottom: 12px; }
+.academic-cv .cv-appointment > p:not(.cv-appointment__date) { font-size: 14px; margin-bottom: 7px; }
+.academic-cv .cv-rows { list-style: none; padding: 0; margin: 0; }
+.cv-row { display: grid; grid-template-columns: 138px minmax(0, 1fr); gap: 22px; padding: 15px 0; border-bottom: 1px solid #edf0f0; }
+.cv-row:last-child { border-bottom: 0; }
+.cv-row__date { color: #5b6468; font-size: 13px; padding-top: 2px; }
+.cv-row__content { min-width: 0; }
+.academic-cv .cv-row__title p { font-size: 15px; margin: 0; }
+.academic-cv .cv-row__notes { padding-left: 18px; margin: 9px 0 0; color: #5b6468; font-size: 14px; }
+.academic-cv .cv-row__notes li { margin-bottom: 6px; }
+.academic-cv .cv-row__notes p { font-size: inherit; margin: 0; }
+.cv-rows--timeline .cv-row__content { position: relative; padding-left: 22px; border-left: 1px solid #d9dedf; }
+.cv-rows--timeline .cv-row__content::before { content: ''; position: absolute; top: 7px; left: -4px; width: 7px; height: 7px; border-radius: 50%; background: #215b74; }
+.cv-row__details { margin-top: 10px; }
+.cv-row__details summary { color: #215b74; font-size: 13px; width: fit-content; cursor: pointer; }
+@media (max-width: 700px) {
+  .cv-current { grid-template-columns: 1fr; gap: 22px; }
+  .cv-row { grid-template-columns: 1fr; gap: 5px; padding: 17px 0; }
+  .cv-row__date { padding-top: 0; }
+  .cv-rows--timeline .cv-row__content { margin-left: 3px; padding-left: 18px; }
+  .cv-section-nav a { display: flex; align-items: center; min-height: 44px; }
+  .cv-row__details summary { min-height: 44px; display: flex; align-items: center; }
+}

@@ -5,6 +5,15 @@ main:
   
   - title: "Working Papers"
     url: /projects/  
+
+  - title: "Book"
+    url: /book/
+
+  - title: "Cases"
+    url: /cases/
+
+  - title: "Blog"
+    url: /blog/
     
   - title: "CV"
     url: /cv/
@@ -12,8 +21,6 @@ main:
   - title: "Data"
     url: /data/
     
-  - title: "Blog (Danish)"
-    url: https://blog.msdahl.net
     
  # - title: "Teaching"
  #   url: /teaching/    

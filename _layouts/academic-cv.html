@@ -1,0 +1,48 @@
+---
+layout: academic-home
+---
+<article class="academic-cv">
+  <header class="cv-intro">
+    <p class="cv-eyebrow">Michael S. Dahl</p>
+    <h1>Academic CV</h1>
+    <nav class="cv-section-nav" aria-label="CV sections">
+      <a href="#career">Career</a><a href="#awards">Awards</a><a href="#education">Education</a><a href="#visiting">Visiting appointments</a><a href="#grants">Selected Grants</a><a href="#service">Academic service</a>
+    </nav>
+  </header>
+  <section class="cv-section cv-section--current" aria-labelledby="current-title">
+    <h2 id="current-title">Current appointments</h2>
+    <div class="cv-current">
+      {% for item in site.data.cv.current %}
+      <div class="cv-appointment">
+        <p class="cv-appointment__date">{{ item.date | escape }}</p>
+        <h3>{{ item.title | escape }}</h3>
+        {% for detail in item.details %}<p>{{ detail | escape }}</p>{% endfor %}
+      </div>
+      {% endfor %}
+    </div>
+  </section>
+  <section id="career" class="cv-section" aria-labelledby="career-title">
+    <h2 id="career-title">Previous appointments</h2>
+    {% include cv-rows.html items=site.data.cv.career timeline=true %}
+  </section>
+  <section id="awards" class="cv-section" aria-labelledby="awards-title">
+    <h2 id="awards-title">Awards &amp; distinctions</h2>
+    {% include cv-rows.html items=site.data.cv.awards collapse_details=true %}
+  </section>
+  <section id="education" class="cv-section" aria-labelledby="education-title">
+    <h2 id="education-title">Education</h2>
+    {% include cv-rows.html items=site.data.cv.education %}
+  </section>
+  <section id="visiting" class="cv-section" aria-labelledby="visiting-title">
+    <h2 id="visiting-title">Visiting appointments</h2>
+    {% include cv-rows.html items=site.data.cv.visits %}
+  </section>
+  <section id="grants" class="cv-section" aria-labelledby="grants-title">
+    <h2 id="grants-title">Selected Grants</h2>
+    {% include cv-rows.html items=site.data.cv.grants %}
+  </section>
+  <section id="service" class="cv-section" aria-labelledby="service-title">
+    <h2 id="service-title">Academic service &amp; leadership</h2>
+    {% include cv-rows.html items=site.data.cv.service %}
+  </section>
+</article>
