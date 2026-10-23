@@ -10,7 +10,7 @@ author_profile: false
 
 **Michael S. Dahl & Olav Sorenson**
 
-**Oxford University Press · Forthcoming**
+**Oxford University Press · Forthcoming, summer 2027**
 
 Why does entrepreneurship concentrate in a handful of places, such as Silicon Valley, Boston, and London, despite repeated declarations of the death of distance? Why do booming hubs like Detroit lose their dynamism, while seemingly stagnant places like 1990s Boston sometimes roar back? Why do so many efforts to build entrepreneurial ecosystems fail?
 
