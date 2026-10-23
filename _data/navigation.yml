@@ -1,27 +1,13 @@
-# main links links
 main:
   - title: "Publications"
-    url: /pubs/   
-  
+    url: /pubs/
   - title: "Book"
     url: /book/
-
-  - title: "Cases"
-    url: /cases/
-
-  - title: "Blog"
-    url: /blog/
-    
-  - title: "CV"
-    url: /cv/
-    
   - title: "Data"
     url: /data/
-    
-    
- # - title: "Teaching"
- #   url: /teaching/    
-    
- # - title: "Portfolio"
- #   url: /portfolio/
-        
+  - title: "Cases"
+    url: /cases/
+  - title: "Blog"
+    url: /blog/
+  - title: "CV"
+    url: /cv/
