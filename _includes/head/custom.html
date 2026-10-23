@@ -24,3 +24,16 @@
 <meta name="theme-color" content="#ffffff">
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
 <!-- end custom head snippets -->
+<link rel="stylesheet" href="{{ '/assets/css/academic-navigation.css' | relative_url }}">
+{% if page.permalink == '/cases/' %}
+<link rel="stylesheet" href="{{ '/assets/css/cases.css' | relative_url }}">
+{% endif %}
+{% if page.collection == 'blog' or page.permalink == '/blog/' %}
+<link rel="stylesheet" href="{{ '/assets/css/personal-blog.css' | relative_url }}">
+{% endif %}
+{% if page.layout == 'academic-home' or page.layout == 'academic-cv' %}
+<link rel="stylesheet" href="{{ '/assets/css/academic-home.css' | relative_url }}">
+{% endif %}
+{% if page.layout == 'academic-cv' %}
+<link rel="stylesheet" href="{{ '/assets/css/academic-cv.css' | relative_url }}">
+{% endif %}

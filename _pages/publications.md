@@ -19,7 +19,7 @@ Christine D. Isakson, Michael S. Dahl, and Toke Reichstein (2022), Residential L
 
 Pernille Gjerløv-Juel, Michael S. Dahl (2022), High-Performer Mobility to Entrepreneurship and Parent-Firm Performance, **Strategic Entrepreneurship Journal**, 16(1) 129-154 -- [DOI](https://doi.org/10.1002/sej.1403) -- [PDF](https://onlinelibrary.wiley.com/doi/epdf/10.1002/sej.1403)
 
-Olav Sorenson, Michael S. Dahl, Rodrigo Canales, and M. Diane Burton (2021), Do startup employees earn more in the long-run?, **Organization Science**, 32(3) 527-604. ISSN: 1047-7039. -- [DOI](https://doi.org/10.1287/orsc.2020.1371) -- [PDF](https://pubsonline.informs.org/doi/pdf/10.1287/orsc.2020.1371)
+Olav Sorenson, Michael S. Dahl, Rodrigo Canales, and M. Diane Burton (2021), Do startup employees earn more in the long-run?, **Organization Science**, 32(3), 587–604. ISSN: 1047-7039. -- [DOI](https://doi.org/10.1287/orsc.2020.1371) -- [PDF](https://pubsonline.informs.org/doi/pdf/10.1287/orsc.2020.1371)
 
 Michael S. Dahl and Lamar Pierce (2020), Pay-for-Performance and Employee Mental Health: Large Sample Evidence Using Employee Prescription Drug Usage, **Academy of Management Discoveries**, 6(1), 12–38. -- [DOI](https://doi.org/10.5465/amd.2018.0007) -- [PDF](https://pure.au.dk/portal/files/145808369/AMD_2018_0007.final.pdf)
 
@@ -37,7 +37,7 @@ Michael S. Dahl, Cristian Deszo and David Gaddis Ross (2012), Fatherhood and Man
 
 Michael S. Dahl and Olav Sorenson (2012), Home Sweet Home: Entrepreneurs’ Location Choices and the Performance of Their Ventures, **Management Science** 58(6), 1059-1071. ISSN: 0025-1909. _**2017 Schulze Publication Award**_  -- [DOI](https://doi.org/10.1287/mnsc.1110.1476) -- [PDF](https://michaeldahl.github.io/files/pubs/Dahl-Sorenson-2012-ManSci.pdf)
 
-Michael S. Dahl (2011), Organizational Change and Employee Stress, **Management Science** 53(2), 240-256. ISSN: 0025-1909. -- [DOI](https://doi.org/10.1287/mnsc.1100.1273) -- [PDF](https://michaeldahl.github.io/files/pubs/Dahl-2011-ManSci.pdf)
+Michael S. Dahl (2011), Organizational Change and Employee Stress, **Management Science** 57(2), 240–256. ISSN: 0025-1909. -- [DOI](https://doi.org/10.1287/mnsc.1100.1273) -- [PDF](https://michaeldahl.github.io/files/pubs/Dahl-2011-ManSci.pdf)
 
 Jesper L. Christensen, René N. Nielsen, Søren Eliasen, Christian R. Østergaard, and Michael S. Dahl (2011), Patterns and Collaborators of Innovation in the Primary Sector: A study of the Danish Agriculture, Forestry and Fishery Industry, **Industry and Innovation** 18(2), 203-225. ISSN: 1366-2716. -- [DOI](https://doi.org/10.1080/13662716.2011.541105) -- [PDF](https://michaeldahl.github.io/files/pubs/Christensen-etal-2011-IandI.pdf)
 

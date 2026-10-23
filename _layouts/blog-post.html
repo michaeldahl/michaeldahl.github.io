@@ -1,0 +1,14 @@
+---
+layout: default
+---
+<main id="main" class="personal-blog" lang="da">
+  <article>
+    <header class="personal-blog__intro">
+      <a href="{{ '/blog/' | relative_url }}">← Alle tanker</a>
+      <p class="personal-blog__date">{% include danish-date.html date=page.date %}</p>
+      <h1>{{ page.title | escape }}</h1>
+    </header>
+    <div class="personal-blog__body">{{ content }}</div>
+    <footer class="personal-blog__end"><a href="{{ '/blog/' | relative_url }}">← Flere tanker</a></footer>
+  </article>
+</main>

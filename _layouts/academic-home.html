@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<main id="main" class="academic-home">
+  <aside class="academic-home__profile" aria-label="Academic profile">
+    <img src="{{ '/images/dahlmgmt-bw.jpg' | relative_url }}" width="150" height="190" alt="Michael S. Dahl">
+    <h2>Michael S. Dahl</h2>
+    <p>Professor of Strategy<br>and Organization</p>
+    <p class="academic-home__muted">Aalborg, Denmark</p>
+    <nav aria-label="Profile links">
+      <a href="mailto:{{ site.author.email }}">E-mail →</a>
+      <a href="{{ site.author.googlescholar }}">Google Scholar ↗</a>
+      <a href="https://orcid.org/0000-0002-3970-1483">ORCID ↗</a>
+      <a href="https://vbn.aau.dk/en/persons/msd/">AAU profile ↗</a>
+      <a href="https://www.nhh.no/en/employees/faculty/michael-slavensky-dahl/">NHH profile ↗</a>
+    </nav>
+  </aside>
+  <div class="academic-home__content">{{ content }}</div>
+</main>

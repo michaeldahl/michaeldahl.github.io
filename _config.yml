@@ -11,7 +11,7 @@ title                    : "Michael S. Dahl"
 title_separator          : "-"
 name                     : &name "Michael S. Dahl"
 description              : &description "Professor, Aalborg University Business School, Denmark"
-url                      : https://michaeldahl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://msdahl.net # canonical public hostname
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "michaeldahl.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -169,6 +169,9 @@ kramdown:
 
 # Collections
 collections:
+  blog:
+    output: true
+    permalink: /blog/:path/
   teaching:
     output: true
     permalink: /:collection/:path/
@@ -185,6 +188,14 @@ collections:
 
 # Defaults
 defaults:
+  # Danish personal blog, separate from academic news in _posts
+  - scope:
+      path: ""
+      type: blog
+    values:
+      layout: blog-post
+      lang: da
+      author_profile: false
   # _posts
   - scope:
       path: ""
@@ -261,6 +272,7 @@ gems:
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
+  - jekyll-redirect-from
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
