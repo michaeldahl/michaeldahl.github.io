@@ -1,0 +1,17 @@
+---
+layout: academic-home
+---
+<article class="academic-document academic-document--{{ page.document_type | escape }}">
+  <header class="academic-document__header">
+    <h1>{{ page.title | escape }}</h1>
+    {% if page.document_type == 'publications' %}
+    <nav class="academic-document__sections" aria-label="Publication sections">
+      <a href="#articles-in-peer-reviewed-refereed-journals">Journal articles</a>
+      <a href="#books">Books</a>
+      <a href="#thesis">Thesis</a>
+      <a href="#book-chapters">Book chapters</a>
+    </nav>
+    {% endif %}
+  </header>
+  <div class="academic-document__body">{{ content }}</div>
+</article>

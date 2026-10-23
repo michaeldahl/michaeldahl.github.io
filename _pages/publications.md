@@ -1,8 +1,10 @@
 ---
-layout: single
+layout: academic-document
+body_class: home-design
+document_type: publications
 title: "Publications"
 permalink: /pubs/
-author_profile: true
+author_profile: false
 ---
 
 ## Articles in peer-reviewed refereed journals

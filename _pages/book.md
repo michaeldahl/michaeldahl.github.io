@@ -1,8 +1,11 @@
 ---
+layout: academic-document
+body_class: home-design
+document_type: book
 title: The Spatial Ecology of Entrepreneurship
 permalink: /book/
 excerpt: A forthcoming Oxford University Press book by Michael S. Dahl and Olav Sorenson on how employers shape entrepreneurship and local economic dynamism.
-author_profile: true
+author_profile: false
 ---
 
 **Michael S. Dahl & Olav Sorenson**
