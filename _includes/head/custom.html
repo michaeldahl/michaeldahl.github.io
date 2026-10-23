@@ -38,5 +38,5 @@
 <link rel="stylesheet" href="{{ '/assets/css/academic-cv.css' | relative_url }}">
 {% endif %}
 {% if page.document_type %}
-<link rel="stylesheet" href="{{ '/assets/css/academic-document.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/css/academic-document.css' | relative_url }}?v={{ site.time | date: '%Y%m%d%H%M%S' }}">
 {% endif %}
