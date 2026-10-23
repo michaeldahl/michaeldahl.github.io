@@ -1,11 +1,13 @@
 ---
-layout: default
+layout: academic-home
+body_class: home-design
+document_type: blog
 title: Tanker
 permalink: /blog/
 excerpt: Personal posts in Danish about strategy, leadership, football, and whatever else gets me thinking.
 ---
-<main id="main" class="personal-blog" lang="da">
-  <header class="personal-blog__intro">
+<article class="academic-document academic-document--blog" lang="da">
+  <header class="academic-document__header personal-blog__intro">
     <p class="personal-blog__language" lang="en">Personal posts in Danish</p>
     <h1>Tanker</h1>
     <p>Om strategi, ledelse og fodbold — og andet, der får mig til at tænke. Egne betragtninger, med plads til diskussion.</p>
@@ -19,4 +21,4 @@ excerpt: Personal posts in Danish about strategy, leadership, football, and what
       <a class="personal-blog__read" href="{{ entry.url | relative_url }}">Læs indlægget <span aria-hidden="true">→</span><span class="personal-blog__sr">: {{ entry.title | escape }}</span></a>
     </article>
   {% endfor %}
-</main>
+</article>

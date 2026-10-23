@@ -1,8 +1,11 @@
 ---
+layout: academic-document
+body_class: home-design
+document_type: cases
 title: Cases
 permalink: /cases/
 excerpt: Teaching cases by Michael S. Dahl.
-author_profile: true
+author_profile: false
 ---
 
 A collection of my written cases for reading, teaching, and discussion.

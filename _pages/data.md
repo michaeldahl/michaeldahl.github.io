@@ -1,8 +1,10 @@
 ---
-layout: single
+layout: academic-document
+body_class: home-design
+document_type: data
 title: "Data"
 permalink: /data/
-author_profile: true
+author_profile: false
 ---
 
 ## Clusters and Danish Industry Classifications

@@ -31,12 +31,12 @@
 {% if page.collection == 'blog' or page.permalink == '/blog/' %}
 <link rel="stylesheet" href="{{ '/assets/css/personal-blog.css' | relative_url }}">
 {% endif %}
-{% if page.layout == 'academic-home' or page.layout == 'academic-cv' or page.layout == 'academic-document' %}
+{% if page.layout == 'academic-home' or page.layout == 'academic-cv' or page.layout == 'academic-document' or page.document_type %}
 <link rel="stylesheet" href="{{ '/assets/css/academic-home.css' | relative_url }}">
 {% endif %}
 {% if page.layout == 'academic-cv' %}
 <link rel="stylesheet" href="{{ '/assets/css/academic-cv.css' | relative_url }}">
 {% endif %}
-{% if page.layout == 'academic-document' %}
+{% if page.document_type %}
 <link rel="stylesheet" href="{{ '/assets/css/academic-document.css' | relative_url }}">
 {% endif %}

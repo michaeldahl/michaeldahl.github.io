@@ -1,5 +1,5 @@
 .academic-document { max-width: 760px; min-width: 0; font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 1.65; }
-.academic-document .academic-document__header h1 { margin: 0 0 24px; font-size: 32px; line-height: 1.2; font-weight: 500; }
+.academic-document .academic-document__header h1 { margin: 0 0 24px; font-family: Helvetica, "Helvetica Neue", Arial, sans-serif; font-size: 32px; line-height: 1.2; font-weight: 500; }
 .academic-document__sections { display: flex; flex-wrap: wrap; gap: 10px 20px; padding: 0 0 24px; font-size: 13px; }
 .academic-document .academic-document__body h2 { margin: 32px 0 14px; padding-top: 24px; border-top: 1px solid #d9dedf; font-size: 22px; line-height: 1.35; font-weight: 500; }
 .academic-document .academic-document__body h2:first-child { margin-top: 0; }
@@ -12,9 +12,18 @@
 .academic-document--book .academic-document__body > p:nth-of-type(1) { margin-bottom: 8px; }
 .academic-document--book .academic-document__body > p:nth-of-type(2) { margin-bottom: 28px; color: #5b6468; font-size: 14px; }
 .academic-document--book .academic-document__body > p:last-child { margin-top: 28px; padding-top: 20px; border-top: 1px solid #d9dedf; font-size: 14px; }
+.academic-document .academic-document__body .case-license { font-size: 13px; }
+.academic-document .personal-blog__intro > p { font-size: 16px; }
+.academic-document .personal-blog__language, .academic-document .personal-blog__date { color: #5b6468; font-size: 13px; }
+.academic-document .personal-blog__entry { padding: 22px 0; }
+.academic-document .personal-blog__entry h2 { font-family: inherit; font-weight: 500; font-size: 22px; line-height: 1.35; margin: 8px 0 12px; }
+.academic-document .personal-blog__entry > p { font-size: 16px; }
+.academic-document .personal-blog__entry > .personal-blog__date { font-size: 13px; }
+.academic-document .personal-blog__body { font-size: 16px; line-height: 1.65; }
+.academic-document .personal-blog__read, .academic-document .personal-blog__end { font-size: 14px; }
+.academic-document .personal-blog__intro > .personal-blog__date { font-size: 13px; }
 @media (max-width: 700px) {
   .academic-document { max-width: 100%; }
-  .academic-document .academic-document__header h1 { font-size: 30px; }
   .academic-document__sections { gap: 4px 18px; }
   .academic-document__sections a { display: flex; align-items: center; min-height: 44px; }
 }
