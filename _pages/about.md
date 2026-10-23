@@ -20,8 +20,8 @@ redirect_from:
   <p class="academic-home__eyebrow">Forthcoming book</p>
   <h2 id="home-book-title">The Spatial Ecology<br>of Entrepreneurship</h2>
   <p>Michael S. Dahl &amp; Olav Sorenson</p>
-  <p class="academic-home__muted">Oxford University Press · Forthcoming</p>
-  <p>How employers shape entrepreneurship, local ecosystems, and economic dynamism.</p>
+  <p class="academic-home__muted">Oxford University Press · Forthcoming, summer 2027</p>
+  <p>How employers create entrepreneurs—and why some places thrive while others lose their dynamism.</p>
   <a href="{{ '/book/' | relative_url }}">Explore the book →</a>
 </section>
 <section aria-labelledby="home-research-title">
