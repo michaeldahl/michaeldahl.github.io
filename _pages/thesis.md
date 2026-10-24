@@ -1,7 +1,10 @@
 ---
+layout: academic-document
+body_class: home-design
+document_type: thesis
 permalink: /thesis/
 title: "Thesis"
-author_profile: true
+author_profile: false
 redirect_from: 
   - "/thesis.html"
 ---
