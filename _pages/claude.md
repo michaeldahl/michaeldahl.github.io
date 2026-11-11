@@ -17,6 +17,8 @@ A collection of links, practical tips, and examples for working with Claude. Thi
 
 - [Claude Code for academics — Alessandro Spina](https://www.alessandro-spina.com/claude-code/) — talks, slides, and tools for using Claude Code in academic research.
 
+- [Figures for Papers — Chen Liu](https://github.com/ChenLiu-1996/figures4papers) — Python scripts and a Claude Code skill for creating publication-quality research figures.
+
 <!-- Add new links above this line. -->
 
 ## Tips and examples
