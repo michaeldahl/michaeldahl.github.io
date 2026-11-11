@@ -19,6 +19,8 @@ A collection of links, practical tips, and examples for working with Claude. Thi
 
 - [Figures for Papers — Chen Liu](https://github.com/ChenLiu-1996/figures4papers) — Python scripts and a Claude Code skill for creating publication-quality research figures.
 
+- [Claude Code — Scott Cunningham](https://causalinf.substack.com/s/claude-code) — a Substack series on using Claude Code for empirical research.
+
 <!-- Add new links above this line. -->
 
 ## Tips and examples
