@@ -25,6 +25,6 @@ A collection of links, practical tips, and examples for working with Claude. Thi
 
 ## Tips and examples
 
-Practical notes and examples will be added here.
+- [AAUBS seminar slides (PDF)](/files/2026-11-11_AAUBS-Seminar.pdf) — 11 November 2026.
 
 <!-- Add tips below this line. -->
