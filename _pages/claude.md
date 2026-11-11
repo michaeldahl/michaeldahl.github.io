@@ -15,6 +15,8 @@ A collection of links, practical tips, and examples for working with Claude. Thi
 - [Claude](https://claude.ai/) — open Claude.
 - [Claude Help Center](https://support.claude.com/en/) — official guides and support.
 
+- [Claude Code for academics — Alessandro Spina](https://www.alessandro-spina.com/claude-code/) — talks, slides, and tools for using Claude Code in academic research.
+
 <!-- Add new links above this line. -->
 
 ## Tips and examples
