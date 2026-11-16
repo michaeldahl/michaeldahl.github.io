@@ -21,6 +21,10 @@ A collection of links, practical tips, and examples for working with Claude. Thi
 
 - [Claude Code — Scott Cunningham](https://causalinf.substack.com/s/claude-code) — a Substack series on using Claude Code for empirical research.
 
+- [My Claude setup — Hans Henrik Sievertsen](https://hanshenriksievertsen.substack.com/p/my-claude-setup) — a practical Claude Code setup using a Raspberry Pi, GitHub, and Todoist.
+
+- [Practical AI for Academics — Claes Bäckman](https://claesbackman.com/ai_workshop/) — workshop slides on using AI for academic research and teaching.
+
 <!-- Add new links above this line. -->
 
 ## Tips and examples
